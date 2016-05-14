@@ -35,3 +35,37 @@ Voici les principales bases de données **multidisciplinaires** en sciences & te
 | accès | limité |
 | couverture temporelle | 1995 ->   (tables des matières avant 1995) |
 
+## SpringerLink
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | S |
+| producteur | Springer |
+| accès HEG | éditeur |
+| nb docs/titres | 5'700'000 articles   3'600'000 chapitres de livre |
+| accès | limité |
+| couverture temporelle | 1832 -> |
+
+Les 2 dernières bases de données sont multidisciplinaires, mais dans les domaines de l'ingénierie seulement.   
+
+## Compendex
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | B |
+| producteur | Engineering Information |
+| accès HEG | *pas d'accès* |
+| nb docs/titres | 18'800'000 documents |
+| accès | limité |
+| couverture temporelle | 1970 -> |
+
+## Inspec
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | B |
+| producteur | The Institution of Engineering and Technology |
+| accès HEG | Web of Science |
+| nb docs/titres | 11'200'000 documents |
+| accès | limité |
+| couverture temporelle | 1969 -> |
