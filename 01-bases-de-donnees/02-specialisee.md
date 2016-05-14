@@ -86,9 +86,9 @@ Domaines: **biologie**, **médecine**
 | accès HEG | ouvert |
 | nb docs/titres | 26'000'000 entrées |
 | accès | limité |
-| couverture temporelle | 1970 -> |
+| couverture temporelle | 1946 -> |
 
-Plus d'infos sur le site de [zbMATH](https://zbmath.org/about/).
+Plus d'infos dans la [*Medline Fact Sheet*](https://www.nlm.nih.gov/pubs/factsheets/medline.html).
 
 
 ## Chemical Abstracts
@@ -97,8 +97,10 @@ Domaines: **chimie**, pharmacie
 | Rubriques | Infos |
 | :-------- | :---- |
 | type | B |
-| producteur | The Institution of Engineering and Technology |
-| accès HEG | Web of Science |
-| nb docs/titres | 11'200'000 entrées |
+| producteur | Chemical Abstracts Service |
+| accès HEG | *pas d'accès* |
+| nb docs/titres | 43'000'000 entrées |
 | accès | limité |
-| couverture temporelle | 1969 -> |
+| couverture temporelle | 1907 -> |
+
+Plus d'infos sur le [site de *Chemical Abstracts Service*](http://www.cas.org/content/references).

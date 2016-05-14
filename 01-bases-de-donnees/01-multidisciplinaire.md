@@ -31,7 +31,7 @@ Voici les principales bases de données **multidisciplinaires** en sciences & te
 | type | S |
 | producteur | Elsevier |
 | accès HEG | SciVerse |
-| nb docs/titres | 3'800 journaux   34'000 livres |
+| nb docs/titres | 3'800 journaux <br/>34'000 livres |
 | accès | limité |
 | couverture temporelle | 1995 -> <br/>tables des matières avant 1995 |
 
