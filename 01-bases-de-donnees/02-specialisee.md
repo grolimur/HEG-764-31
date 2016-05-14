@@ -1,0 +1,104 @@
+# BASES DE DONNÉES SPÉCIALISÉES
+
+Voici les principales bases de données **spcéialisées** en sciences & techniques.   
+
+## GEOBASE
+Domaines: **géographie**, **science de la terre**, écologie, environnement
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | B |
+| producteur | Canadian Council on Geomatics |
+| accès HEG | *pas d'accès* |
+| nb docs/titres | 3'000'000 entrées |
+| accès | limité |
+| couverture temporelle | 1974 -> |
+
+Plus d'infos dans la [*GEOBASE Fact Sheet*](https://www.elsevier.com/__data/assets/pdf_file/0003/56424/4836-Geobase-factsheet-v6-HI-no-ticks.pdf) d'Elsevier.
+
+## GeoRef
+Domaines: **géographie**, **science de la terre**, géologie
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | B |
+| producteur | American Geological Insitute |
+| accès HEG | *pas d'accès* |
+| nb docs/titres | 3'700'000 entrées |
+| accès | limité |
+| couverture temporelle | 1669 -> (Am. du nord)   1993 -> (Europe) |
+
+Plus d'infos dans la [*GeoRef Fact Sheet*](https://www.elsevier.com/__data/assets/pdf_file/0006/56427/4836-GeoRef-factsheet-v5-HI-no-ticks.pdf) d'Elsevier.
+
+
+## IEEE Xplore
+Domaines: **électronique**, **informatique**
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | S |
+| producteur | IEEE |
+| accès HEG | site de l'éditeur |
+| nb docs/titres | 3'900'000 entrées |
+| accès | limité |
+| couverture temporelle | 1988 -> (toutes les publications d'IEEE)   1872 -> (partiel) |
+
+
+
+
+## MathSciNet
+Domaines: **mathématiques**, probabilités, statistiques
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | B |
+| producteur | American Mathematical Society |
+| accès HEG | site de l'AMS ??? |
+| nb docs/titres | 3'200'000 entrées |
+| accès | limité |
+| couverture temporelle | env. 1800 -> |
+
+Plus d'infos sur le [site de l'AMS](http://www.ams.org/mathscinet/help/about.html?version=2).
+
+
+## zbMATH
+Domaines: **mathématiques**, probabilités, statistiques
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | B |
+| producteur | Fachinformationszentrum Karlsruhe |
+| accès HEG | éditeur |
+| nb docs/titres | 3'500'000 entrées |
+| accès | limité |
+| couverture temporelle | 1868 -> |
+
+Plus d'infos sur le [site de zbMATH](https://zbmath.org/about/).
+
+
+## PubMed/Medline
+Domaines: **biologie**, **médecine**
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | B |
+| producteur | National Library of Medecine |
+| accès HEG | ouvert |
+| nb docs/titres | 26'000'000 entrées |
+| accès | limité |
+| couverture temporelle | 1970 -> |
+
+Plus d'infos sur le site de [zbMATH](https://zbmath.org/about/).
+
+
+## Chemical Abstracts
+Domaines: **chimie**, pharmacie
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | B |
+| producteur | The Institution of Engineering and Technology |
+| accès HEG | Web of Science |
+| nb docs/titres | 11'200'000 entrées |
+| accès | limité |
+| couverture temporelle | 1969 -> |
