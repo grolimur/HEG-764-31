@@ -17,7 +17,25 @@ Domaines: **physique**, **mathématiques**, **informatique**, finance, statistiq
 | accès | ouvert |
 | couverture temporelle | * |
 
-* arXiv a été créé en 1991, mais les documents qui y sont déposés peuvent être un peu plus anciens.
+* arXiv a été créé en 1991, mais les documents qui y sont déposés peuvent être un peu plus anciens.   
+À noter qu'arixv ne collecte que des ***preprints***, des documents n'ayant pas encore été soumis ou validés par une revue scientifique.   
+
+
+## biorXiv
+Archive ouverte thématique
+Domaines: **sciences biomédicales**
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | A |
+| producteur | Cold Spring Harbor Laboratory |
+| accès HEG | biorxiv.org |
+| nb docs/titres | 4'000 entrées |
+| accès | ouvert |
+| couverture temporelle | * |
+
+* biorXiv a été créé en 2013, mais les documents qui y sont déposés peuvent être un peu plus anciens.   
+Basé sur le principe d'arxiv, biorixv ne collecte que des ***preprints***, des documents n'ayant pas encore été soumis ou validés par une revue scientifique.   
 
 
 ## CERN Document Server
@@ -31,7 +49,7 @@ Domaine: physique des hautes énergies
 | accès HEG | cds.cern.ch |
 | nb docs/titres | 1'200'000 entrées |
 | accès | ouvert |
-| couverture temporelle | * |
+| couverture temporelle | ()* |
 
 * Les recherches menées au CERN ne concerne qu'un domaine bien précis de la physique. Par ailleurs, le CERN fournit la très grande majorité des publications dans ce domaine.
 
@@ -45,7 +63,7 @@ Archive institutionnelle du domaine Économie et Services de la HES-SO
 | accès HEG | arodes.hes-so.ch |
 | nb docs/titres | 1'400 entrées |
 | accès | ouvert |
-| couverture temporelle | * |
+| couverture temporelle | (créé en 2015)* |
 
 * ArODES a été créé en 2015, mais les publications ont été indexées jusqu'en 1999.
 
@@ -60,7 +78,7 @@ Archive institutionnelle
 | accès HEG | archive-ouverte.unige.ch |
 | nb docs/titres | 49'000 entrées |
 | accès | ouvert |
-| couverture temporelle | * |
+| couverture temporelle | (créé en 2009)* |
 
 
 ## RERODOC
@@ -73,7 +91,7 @@ Archive institutionnelle
 | accès HEG | doc.rero.ch|
 | nb docs/titres | 36'000 "objets" |
 | accès | ouvert |
-| couverture temporelle | * |
+| couverture temporelle | (créé en 2010?)* |
 
 
 ## Infoscience
@@ -86,7 +104,7 @@ Archive institutionnelle
 | accès HEG | infoscience.epfl.ch |
 | nb docs/titres | 122'000 entrées |
 | accès | ouvert |
-| couverture temporelle | * |
+| couverture temporelle | (créé en 2004)* |
 
 
 ## Serval
@@ -99,4 +117,4 @@ Archive institutionnelle
 | accès HEG | serval.unil.ch |
 | nb docs/titres | 129'000 entrées |
 | accès | ouvert |
-| couverture temporelle | * |
+| couverture temporelle | (créé en 2009)* |
