@@ -1,6 +1,6 @@
 # BASES DE DONNÉES SPÉCIALISÉES
 
-Voici les principales bases de données **spcéialisées** en sciences & techniques.   
+*Voici les principales bases de données **spcéialisées** en sciences & techniques*   
 
 ## GEOBASE
 Domaines: **géographie**, **science de la terre**, écologie, environnement
@@ -26,7 +26,7 @@ Domaines: **géographie**, **science de la terre**, géologie
 | accès HEG | *pas d'accès* |
 | nb docs/titres | 3'700'000 entrées |
 | accès | limité |
-| couverture temporelle | 1669 -> (Am. du nord)   1993 -> (Europe) |
+| couverture temporelle | 1669 -> (Am. du nord) <br/>1993 -> (Europe) |
 
 Plus d'infos dans la [*GeoRef Fact Sheet*](https://www.elsevier.com/__data/assets/pdf_file/0006/56427/4836-GeoRef-factsheet-v5-HI-no-ticks.pdf) d'Elsevier.
 
@@ -41,9 +41,9 @@ Domaines: **électronique**, **informatique**
 | accès HEG | site de l'éditeur |
 | nb docs/titres | 3'900'000 entrées |
 | accès | limité |
-| couverture temporelle | 1988 -> (toutes les publications d'IEEE)   1872 -> (partiel) |
+| couverture temporelle | 1988 -> (toutes les publications d'IEEE) <br/>1872 -> (partiel) |
 
-
+Plus d'infos dans le site d'IEEE, [ici](http://ieeexplore.ieee.org/Xplore/home.jsp) et [là](http://ieeexplore.ieee.org/Xplore/accessinfo.jsp).
 
 
 ## MathSciNet
@@ -76,7 +76,7 @@ Domaines: **mathématiques**, probabilités, statistiques
 Plus d'infos sur le [site de zbMATH](https://zbmath.org/about/).
 
 
-## PubMed/Medline
+## Medline/PubMed
 Domaines: **biologie**, **médecine**
 
 | Rubriques | Infos |

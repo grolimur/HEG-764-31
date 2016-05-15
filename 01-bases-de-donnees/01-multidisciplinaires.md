@@ -1,6 +1,6 @@
 # BASES DE DONNÉES MULTIDISCIPLINAIRES
 
-Voici les principales bases de données **multidisciplinaires** en sciences & techniques.   
+*Voici les principales bases de données **multidisciplinaires** en sciences & techniques*   
 
 ## Web of Science Core Collection
 
