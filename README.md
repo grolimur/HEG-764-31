@@ -18,7 +18,7 @@ La dernière version de ce document est disponible sur [https://www.gitbook.com/
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
 *Historique des versions*   
-**0.1**: version initiale (12.05.2016)   
+**0.1**: version initiale (15.05.2016)   
 
 
 ## Licence `CC BY`
