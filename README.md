@@ -1,4 +1,4 @@
-# Recherche d'information dans les sources spécialisées en Science & Technique
+# Recherche d'information dans les sources spécialisées en sciences & techniques
 
 ## Description
 Le cours **Recherche d'information dans les sources spécialisées** (HEG-764-31) dispensé à la Haute école de gestion (HEG) de Genève, filière Information documentaire (ID), est découpé en 3 parties, couvrant chacune des domaines différents:   
