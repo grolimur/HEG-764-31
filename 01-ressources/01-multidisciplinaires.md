@@ -19,7 +19,7 @@
 | :-------- | :---- |
 | type | B |
 | producteur | Elsevier |
-| accès HEG | SciVerse |
+| accès HEG | *pas d'accès* |
 | nb docs/titres | 21'500 journaux <br/>113'000 livres |
 | accès | limité |
 | couverture temporelle | 1996 -> <br/>un peu 1823 -> |
