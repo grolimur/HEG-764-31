@@ -53,7 +53,7 @@ Domaines: **mathématiques**, probabilités, statistiques
 | :-------- | :---- |
 | type | B |
 | producteur | American Mathematical Society |
-| accès HEG | site de l'AMS ??? |
+| accès HEG | *pas d'accès* |
 | nb docs/titres | 3'200'000 entrées |
 | accès | limité |
 | couverture temporelle | env. 1800 -> |
