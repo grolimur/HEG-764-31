@@ -1,6 +1,6 @@
 # SUMMARY
 
-* [Bases de données](01-ressources/README.md)
+* [Ressources](01-ressources/README.md)
     * [Multidisciplinaires](01-ressources/01-multidisciplinaires.md)
     * [Spécialisées](01-ressources/02-specialisees.md)
     * [Moteurs de recherche](01-ressources/03-moteurs-de-recherche.md)
