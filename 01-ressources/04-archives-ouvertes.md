@@ -49,7 +49,7 @@ Domaine: physique des hautes énergies
 | accès HEG | cds.cern.ch |
 | nb docs/titres | 1'200'000 entrées |
 | accès | ouvert |
-| couverture temporelle | ()* |
+| couverture temporelle | ?* |
 
 * Les recherches menées au CERN ne concerne qu'un domaine bien précis de la physique. Par ailleurs, le CERN fournit la très grande majorité des publications dans ce domaine.
 
