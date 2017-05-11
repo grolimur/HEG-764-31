@@ -13,8 +13,8 @@
 | accès | limité |
 | couverture temporelle | 1900 -> |
 
-\* Le nombre total d'entrées dans la *Core Collection* n'est pas mentionné. Sans doute parce qu'il est inférieur à celui de Scopus... :-)   
 *source*: [Web of Science Fact Book](http://images.info.science.thomsonreuters.biz/Web/ThomsonReutersScience/%7bd6b7faae-3cc2-4186-8985-a6ecc8cce1ee%7d_Crv_WoS_Upsell_Factbook_A4_FA_LR_edits.pdf)
+\* Le nombre total d'entrées dans la *Core Collection* n'est pas mentionné. Sans doute parce qu'il est inférieur à celui de Scopus... :-)   
 
 ## Scopus
 
