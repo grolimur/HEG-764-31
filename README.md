@@ -8,20 +8,19 @@ Le cours **Recherche d'information dans les sources spécialisées** (HEG-764-31
 
 | IMPORTANT |
 | :--------- |
-| Les notes ne concernent **que les ressources en sciences et techniques**. |
+| Ces notes ne concernent **que les ressources en sciences et techniques**. |
 
 
 ## Auteur
 Raphaël Grolimund [raphael.grolimund@hesge.ch](mailto:raphael.grolimund@hesge.ch)   
 
 
-## Version `0.1`
+## Version `0.1.1`
 La dernière version de ce document est disponible sur [https://www.gitbook.com/book/grolimur/heg-764-31](https://www.gitbook.com/book/grolimur/heg-764-31).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
 *Historique des versions*   
 **0.1**: version initiale (17.05.2016)   
-
 
 ## Licence `CC BY`
 ![logo-CC-BY](img/by.svg)   
