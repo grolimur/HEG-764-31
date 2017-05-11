@@ -36,7 +36,7 @@ Domaines: **électronique**, **informatique**
 
 | Rubriques | Infos |
 | :-------- | :---- |
-| type | S |
+| type | E |
 | producteur | IEEE |
 | accès HEG | site de l'éditeur |
 | nb docs/titres | 3'900'000 entrées |

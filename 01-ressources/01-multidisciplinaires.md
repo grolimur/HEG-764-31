@@ -9,9 +9,12 @@
 | type | B |
 | producteur | Thomson Reuters |
 | accès HEG | Web of Science |
-| nb docs/titres | 12'000 journaux <br/>160'000 actes de conférences |
+| nb docs/titres | **XX millions* d'entrées **<br/>12'000 journaux <br/>148'000 actes de conférences (1990->) <br/>livres |
 | accès | limité |
 | couverture temporelle | 1900 -> |
+
+\* Le nombre total d'entrées dans la *Core Collection* n'est pas mentionné. Sans doute parce qu'il est inférieur à celui de Scopus... :-)   
+*source*: [Web of Science Fact Book](http://images.info.science.thomsonreuters.biz/Web/ThomsonReutersScience/%7bd6b7faae-3cc2-4186-8985-a6ecc8cce1ee%7d_Crv_WoS_Upsell_Factbook_A4_FA_LR_edits.pdf)
 
 ## Scopus
 
@@ -28,7 +31,7 @@
 
 | Rubriques | Infos |
 | :-------- | :---- |
-| type | S |
+| type | E |
 | producteur | Elsevier |
 | accès HEG | SciVerse |
 | nb docs/titres | 3'800 journaux <br/>34'000 livres |
@@ -39,7 +42,7 @@
 
 | Rubriques | Infos |
 | :-------- | :---- |
-| type | S |
+| type | E |
 | producteur | Springer |
 | accès HEG | site de l'éditeur |
 | nb docs/titres | 5'700'000 articles <br/>3'600'000 chapitres de livre |

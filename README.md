@@ -6,7 +6,7 @@ Le cours **Recherche d'information dans les sources spécialisées** (HEG-764-31
 * droit, économie et gestion
 * sciences et techniques
 
-IMPORTANT! Ces notes ne concernent **que les ressources en sciences et techniques**.   
+`IMPORTANT! Ces notes ne concernent **que les ressources en sciences et techniques**.`   
 
 
 ## Auteur

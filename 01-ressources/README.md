@@ -23,6 +23,7 @@ Les tableaux de présentation des ressources contiennent une rubrique **type**, 
 | A | **archive** ouverte |
 | B | base de données **bibliographique** |
 | D | dépôt de **données de recherche** |
+| E | site d'**éditeur** |
 | M | **moteur** de recherche |
 | R | **réseau social** (scientifique) |
-| S | **site** d'éditeur |
+
