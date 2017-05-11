@@ -2,10 +2,10 @@
 
 *Voici la liste des plateformes sur lesquels vous êtes susceptibles d'interroger des bases de données en sciences & techniques, ainsi que leurs principales fonctionnalités de recherche*
 
-Engineering Village   
+Engineering Village (*pas d'accès à la HEG*)   
 IEEE Xplore   
 ProQuest   
 PubMed   
-SciVerse   
+ScienceDirect / Scopus   
 SpringerLink   
 Web of Science   

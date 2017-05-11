@@ -1,4 +1,4 @@
-# SciVerse
+# ScienceDirect / Scopus
 
 | Fonctionnalités | Possibilités |
 | :-------- | :---- |
@@ -10,7 +10,7 @@
 | historique | oui |
 
 **Exemples**   
-*pain **W/15** morphine* renvoie les résultats où "pain" se trouve à max. 15 mots de "morphine".   
+`pain W/15 morphine` renvoie les résultats où "pain" se trouve à max. 15 mots de "morphine".   
 *behavioural **PRE/3** disturbances* renvoie les résultats où "behavioural" précède "disturbances"de 3 mots max.   
 
 **h*rt** renvoie hurt, heart, etc.   
