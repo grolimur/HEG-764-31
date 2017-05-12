@@ -15,7 +15,7 @@ Le cours **Recherche d'information dans les sources spécialisées** (HEG-764-31
 Raphaël Grolimund [raphael.grolimund@hesge.ch](mailto:raphael.grolimund@hesge.ch)   
 
 
-## Version `0.1.3`
+## Version `0.1.4`
 La dernière version de ce document est disponible sur [https://www.gitbook.com/book/grolimur/heg-764-31](https://www.gitbook.com/book/grolimur/heg-764-31).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 

@@ -6,7 +6,7 @@
 | opérateurs<br/>de proximité | W/*n*<br/>PRE/*n* |
 | troncature | * (zéro ou plus de caractères)<br/>? (un caractère) <br/>*troncature possible à gauche, au milieu et à droite* |
 | phrase | "..."<br/>{...} |
-| interprétation<br/>de la requête | oui (*stemming* et variantes UK/US) |
+| interprétation<br/>de la requête | oui |
 | historique | oui |
 
 **Exemples**   

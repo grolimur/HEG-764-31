@@ -13,3 +13,4 @@
 `flavor*` renvoie flavor, flavored, flavorful, flavoring, etc.   
 
 *source*: [PubMed Help](https://www.ncbi.nlm.nih.gov/books/NBK3827/)
+
