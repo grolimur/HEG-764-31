@@ -7,7 +7,7 @@
 | opérateurs<br/>de proximité | NEAR/*n*<br/>SAME |
 | troncature | gauche - milieu - droite<br/>* (zéro ou plus de caractères)<br/>? (un caractère)<br/>$ (zéro ou un caractère) |
 | phrase | "..." |
-| interpréation<br/>de la requête | lemmatisation<br/>variantes UK/US |
+| interprétation<br/>de la requête | lemmatisation<br/>variantes UK/US |
 | historique | oui |
 
 **Exemples**   

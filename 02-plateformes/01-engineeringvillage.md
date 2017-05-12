@@ -6,7 +6,7 @@
 | opérateurs<br/>de proximité | NEAR/*n*<br/>ONEAR/*n*  |
 | troncature | * (zéro ou plus de caractères)<br/>? (un caractère)<br/>$ (variations du terme)<br/>*troncature possible à gauche, au milieu et à droite* |
 | phrase | "..."<br/>{...} |
-| interpréation<br/>de la requête | oui (*autostemming*) |
+| interprétation<br/>de la requête | oui (*autostemming*) |
 | historique | oui |
 
 **Exemples**   
