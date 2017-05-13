@@ -6,6 +6,8 @@ Engineering Village (*pas d'accès à la HEG*)
 IEEE Xplore   
 ProQuest   
 PubMed   
-ScienceDirect / Scopus   
+ScienceDirect   
+Scopus (*pas d'accès à la HEG*)   
 SpringerLink   
 Web of Science   
+
