@@ -11,6 +11,18 @@ Le cours **Recherche d'information dans les sources spécialisées** (HEG-764-31
 | Ces notes ne concernent **que les ressources en sciences et techniques**. |
 
 
+## Objectifs du cours
+Cf. [descriptif du module 764-3](https://www.hesge.ch/heg/sites/default/files/formation-base/ID/764-3n-sources-specialisees-services-aux-publics.pdf)
+
+Les cours permettent à l’étudiant de connaître les principales ressources dans ces domaines et de se familiariser avec leur utilisation. Ils sont capables d’identifier les besoins du chercheur d’information.   
+
+Objectifs spécifiques:   
+* connaître les spécificités de la recherche d’information de ces domaines et les principales sources utilisées
+* savoir utiliser [l]es sources [principales]
+* être capable de sélectionner ces sources en fonction des besoins d’information
+* savoir citer les références trouvées
+
+
 ## Auteur
 Raphaël Grolimund [raphael.grolimund@hesge.ch](mailto:raphael.grolimund@hesge.ch)   
 
@@ -31,13 +43,3 @@ Les fichiers source sont disponibles sur [https://github.com/grolimur/collaborer
 Tous les liens ont été consultés avant la mise en ligne du document et étaient accessibles.   
 La date de consultation correspond à la date de publication de la présente version.   
 
-## Objectifs du cours
-Cf. [descriptif du module 764-3](https://www.hesge.ch/heg/sites/default/files/formation-base/ID/764-3n-sources-specialisees-services-aux-publics.pdf)
-
-Les cours permettent à l’étudiant de connaître les principales ressources dans ces domaines et de se familiariser avec leur utilisation. Ils sont capables d’identifier les besoins du chercheur d’information.   
-
-Objectifs spécifiques:   
-* connaître les spécificités de la recherche d’information de ces domaines et les principales sources utilisées
-* savoir utiliser [l]es sources [principales]
-* être capable de sélectionner ces sources en fonction des besoins d’information
-* savoir citer les références trouvées
