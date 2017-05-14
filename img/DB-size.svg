@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<!-- ========================================== -->
+<!-- Taille des bases de données scientifiques  -->
+<!-- ****************************************** -->
+<!-- Auteur  : Raphaël Grolimund                -->
+<!-- Date    : 2017-05-14                       -->
+<!-- Contact : grolimur@nous4.ch                -->
+<!-- Twitter : @grolimur                        -->
+<!-- Github  : grolimur                         -->
+<!-- Licence : CC BY                            -->
+<!-- ========================================== -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="800" height="1000" viewBox="0 0 800 1000">
+
+<!-- caption -->
+<rect x="100" y="36" width="16" height="16" style="fill: #ef5354;" />
+<text x="125" y="50" style="font-size: 16px;" >bases de données multidisciplinaires</text>
+<rect x="420" y="36" width="16" height="16" style="fill: #f2c02b;" />
+<text x="445" y="50" style="font-size: 16px;" >bases de données spécialisées</text>
+<rect x="100" y="56" width="16" height="16" style="fill: #0fa798;" />
+<text x="125" y="70" style="font-size: 16px;" >archives ouvertes</text>
+<rect x="420" y="56" width="16" height="16" style="fill: #0b65b1;" />
+<text x="445" y="70" style="font-size: 16px;" >dépôts de données</text>
+
+<!-- bases de données multidisciplinaires -->
+<rect x="100" y="100" width="300" height="300" style="stroke: black; stroke-width: 1px; fill: #ef5354;" /> // Web of Science Core Collection
+<text x="110" y="120" style="font-size: 16px;" >Web of Science Core Collection</text>
+<text x="110" y="140" style="font-size: 16px;" >(90 mio)</text>
+<rect x="420" y="100" width="256.9" height="256.9" style="stroke: black; stroke-width: 1px; fill: #ef5354;" /> // Scopus
+<text x="430" y="120" style="font-size: 16px;" >Scopus</text>
+<text x="430" y="140" style="font-size: 16px;" >(66 mio)</text>
+<rect x="100" y="420" width="141.4" height="141.4" style="stroke: black; stroke-width: 1px; fill: #ef5354;" /> // Compendex
+<text x="110" y="440" style="font-size: 16px;" >Compendex</text>
+<text x="110" y="460" style="font-size: 16px;" >(20 mio)</text>
+<rect x="261.4" y="420" width="128.5" height="128.5" style="stroke: black; stroke-width: 1px; fill: #ef5354;" /> // Inspec
+<text x="271.4" y="440" style="font-size: 16px;" >Inspec</text>
+<text x="271.4" y="460" style="font-size: 16px;" >(16.5 mio)</text>
+<rect x="409.9" y="420" width="118.3" height="118.3" style="stroke: black; stroke-width: 1px; fill: #ef5354;" /> // ScienceDirect
+<text x="419.9" y="440" style="font-size: 16px;" >ScienceDirect</text>
+<text x="419.9" y="460" style="font-size: 16px;" >(14 mio)</text>
+<rect x="548.2" y="420" width="106.8" height="106.8" style="stroke: black; stroke-width: 1px; fill: #ef5354;" /> // SpringerLink
+<text x="558.2" y="440" style="font-size: 16px;" >SpringerLink</text>
+<text x="558.2" y="460" style="font-size: 16px;" >(11.4 mio)</text>
+
+<!-- bases de données spécialisées -->
+<rect x="100" y="580" width="212.1" height="212.1" style="stroke: black; stroke-width: 1px; fill: #f2c02b;" /> // Chemical Abstracts
+<text x="110" y="600" style="font-size: 16px;" >Chemical Abstracts</text>
+<text x="110" y="620" style="font-size: 16px;" >(45 mio)</text>
+<rect x="332.1" y="580" width="151.7" height="151.7" style="stroke: black; stroke-width: 1px; fill: #f2c02b;" /> // Medline
+<text x="342.1" y="600" style="font-size: 16px;" >Medline</text>
+<text x="342.1" y="620" style="font-size: 16px;" >(23 mio)</text>
+<rect x="100" y="810" width="63.2" height="63.2" style="stroke: black; stroke-width: 1px; fill: #f2c02b;" /> // IEEE Xplore
+<text x="105" y="825" style="font-size: 10px;" >IEEE Xplore</text>
+<text x="105" y="840" style="font-size: 10px;" >(4 mio)</text>
+<rect x="183.2" y="810" width="63.2" height="63.2" style="stroke: black; stroke-width: 1px; fill: #f2c02b;" /> // GeoRef
+<text x="188.2" y="825" style="font-size: 10px;" >GeoRef</text>
+<text x="188.2" y="840" style="font-size: 10px;" >(4 mio)</text>
+<rect x="266.4" y="810" width="60.8" height="60.8" style="stroke: black; stroke-width: 1px; fill: #f2c02b;" /> // zbMATH
+<text x="271.4" y="825" style="font-size: 10px;" >zbMATH</text>
+<text x="271.4" y="840" style="font-size: 10px;" >(3.7 mio)</text>
+<rect x="347.2" y="810" width="58.3" height="58.3" style="stroke: black; stroke-width: 1px; fill: #f2c02b;" /> // MathSciNet
+<text x="352.2" y="825" style="font-size: 10px;" >MathSciNet</text>
+<text x="352.2" y="840" style="font-size: 10px;" >(3.4 mio)</text>
+<rect x="425.5" y="810" width="54.8" height="54.8" style="stroke: black; stroke-width: 1px; fill: #f2c02b;" /> // GEOBASE
+<text x="430.5" y="825" style="font-size: 10px;" >GEOBASE</text>
+<text x="430.5" y="840" style="font-size: 10px;" >(3 mio)</text>
+
+<!-- archives ouvertes -->
+<rect x="501.3" y="810" width="54.8" height="54.8" style="stroke: black; stroke-width: 1px; fill: #0fa798;" /> // archives ouvertes
+<line x1="506.3" y1="815" x2="506.3" y2="715" style="stroke: black; stroke-width: 1px;" />
+<text x="511.3" y="725" style="font-size: 10px;" >total des archives ouvertes *</text>
+<text x="511.3" y="740" style="font-size: 10px;" >(3 mio)</text>
+
+<!-- dépôts de données -->
+<rect x="576.1" y="810" width="31.8" height="31.8" style="stroke: black; stroke-width: 1px; fill: #0b65b1;" /> // dépôts de données
+<line x1="581.3" y1="815" x2="581.3" y2="765" style="stroke: black; stroke-width: 1px;" />
+<text x="586.1" y="775" style="font-size: 10px;" >total des dépôts de données *</text>
+<text x="586.1" y="790" style="font-size: 10px;" >(1 mio)</text>
+
+<text x="100" y="900" style="font-size: 10px;" >* ce total ne prend en compte que les archives ouvertes et dépôts de données présentés dans <a xlink:href="https://www.gitbook.com/book/grolimur/heg-764-31" target="_blank" fill="blue">https://www.gitbook.com/book/grolimur/heg-764-31</a></text>
+
+</svg>
