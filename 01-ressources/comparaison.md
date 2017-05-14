@@ -13,4 +13,3 @@ Google Scholar n'est pas inclus dans cette illustration, puisqu'on a aucune idé
 Seules les bases de données multidisciplinaires et spécialisées sont représentées ici, car les données concernant les autres ressources ne sont pas connues ou suffisamment précises pour être comparées.
 
 ![couverture temporelle](../img/DB-time-frame.svg)   
-

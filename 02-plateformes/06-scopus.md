@@ -18,4 +18,3 @@
 `locom!` renvoie locomotive, locomotives, and locomotion   
 
 *source*: [Scopus: Access and use Support Center - Document search tips](https://service.elsevier.com/app/answers/detail/a_id/11213/supporthub/scopus/#tips)
-

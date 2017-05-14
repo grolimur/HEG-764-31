@@ -27,4 +27,3 @@
 
 *source*: [Web of Science Core Collection Help](http://images.webofknowledge.com/WOKRS524B8/help/WOS/hp_search.html)
 *Notez que l'aide de la plateforme Web of Science est adaptée à la base de données consultée (ici Web of Science Core Collection, sa base de données native).*
-

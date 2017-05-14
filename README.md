@@ -51,4 +51,3 @@ Les icônes utilisées sur la couverture ont été créée par Vladimir Belochki
 
 Atom: [https://thenounproject.com/term/atom/851384/](https://thenounproject.com/term/atom/851384/)   
 Magnifier: [https://thenounproject.com/term/magnifier/1020609/](https://thenounproject.com/term/magnifier/1020609/)   
-

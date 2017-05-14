@@ -26,4 +26,3 @@ Les tableaux de présentation des ressources contiennent une rubrique **type**, 
 | E | site d'**éditeur** |
 | M | **moteur** de recherche |
 | R | **réseau social** (scientifique) |
-

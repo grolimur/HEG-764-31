@@ -10,4 +10,3 @@ ScienceDirect
 Scopus (*pas d'accès à la HEG*)   
 SpringerLink   
 Web of Science   
-
