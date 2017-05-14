@@ -7,4 +7,4 @@ Voici une vue d'ensemble de la taille  et de la couverture temporelle des bases 
 
 ### Couverture temporelle
 
-![couverture temporelle](img/DB-time-frame.svg)   
+![couverture temporelle](img/DB-time-frame.png)   
