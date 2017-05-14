@@ -4,7 +4,7 @@
 | :-------- | :---- |
 | opérateurs<br/>booléens | AND<br/>OR<br/>AND NOT |
 | opérateurs<br/>de proximité | W/*n*<br/>PRE/*n* |
-| troncature | * (zéro ou plusieurs caractères)<br/>? (un caractère exactement)\* <br/>! (zéro ou plusieurs caractères) <br/> *troncature possible à gauche, au milieu et à droite* |
+| troncature | \* (zéro ou plusieurs caractères)<br/>? (un caractère)\* <br/>! (zéro ou plusieurs caractères) <br/> *troncature possible à gauche, au milieu et à droite* |
 | phrase | "..."<br/>{...} |
 | interprétation<br/>de la requête | oui (*stemming*) |
 | historique | oui |

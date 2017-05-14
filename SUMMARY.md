@@ -1,13 +1,13 @@
 # SUMMARY
 
 * [Ressources](01-ressources/README.md)
-    * [Multidisciplinaires](01-ressources/01-multidisciplinaires.md)
-    * [Spécialisées](01-ressources/02-specialisees.md)
+    * [Bases de données multidisciplinaires](01-ressources/01-multidisciplinaires.md)
+    * [Bases de données spécialisées](01-ressources/02-specialisees.md)
     * [Moteurs de recherche](01-ressources/03-moteurs-de-recherche.md)
     * [Archives ouvertes](01-ressources/04-archives-ouvertes.md)
     * [Réseaux sociaux](01-ressources/05-reseaux-sociaux.md)
-    * [Données de recherche](01-ressources/06-donnees-de-recherche.md)
-    * [taille et couverture temporelle](01-ressources/XX-vue-ensemble.md)
+    * [Dépôts de données de recherche](01-ressources/06-donnees-de-recherche.md)
+    * [Comparaison](01-ressources/comparaison.md)
 * [Plateformes](02-plateformes/README.md)
     * [Engineering Village](02-plateformes/01-engineeringvillage.md)
     * [IEEE Explore](02-plateformes/02-ieeexplore.md)
@@ -17,3 +17,4 @@
     * [Scopus](02-plateformes/06-scopus.md)
     * [SpringerLink](02-plateformes/07-springerlink.md)
     * [Web of Science](02-plateformes/08-webofscience.md)
+    * [Tableau comparatif](02-plateformes/comparaison.md)
