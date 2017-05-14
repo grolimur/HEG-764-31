@@ -7,6 +7,7 @@
     * [Archives ouvertes](01-ressources/04-archives-ouvertes.md)
     * [Réseaux sociaux](01-ressources/05-reseaux-sociaux.md)
     * [Données de recherche](01-ressources/06-donnees-de-recherche.md)
+    * [taille et couverture temporelle](01-ressources/XX-vue-ensemble.md)
 * [Plateformes](02-plateformes/README.md)
     * [Engineering Village](02-plateformes/01-engineeringvillage.md)
     * [IEEE Explore](02-plateformes/02-ieeexplore.md)
