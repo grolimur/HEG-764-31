@@ -14,7 +14,7 @@
 
 <svg xmlns:svg="http://www.w3.org/2000/svg"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="900" height="800" viewBox="0 0 900 800">
 <!-- defs -->
-<defs>
+<!--<defs>
 	<linearGradient id="green-gradient">
 		<stop offset="0%" style="stop-color: #008000;" />
 		<stop offset="80%" style="stop-color: #ffffff;" />
@@ -26,6 +26,7 @@
   <linearGradient id="#green-fill" xlink:href="#green-gradient" x1="0%" y1="0%" x2="100%" y2="0%" />
 	<linearGradient id="#lightblue-fill" xlink:href="#lightblue-gradient" x1="0%" y1="0%" x2="100%" y2="0%" />
 </defs>
+-->
 
 <!-- caption -->
 <rect x="20" y="36" width="16" height="16" style="fill: #008000;" />
@@ -100,7 +101,7 @@
 <rect x="614" y="725" width="226" height="30" style="fill: #add8e6;" />
 
 <!-- gradient -->
-<rect x="840" y="125" width="40" height="30" style="fill: url(#green-gradient);" />
+<!--<rect x="840" y="125" width="40" height="30" style="fill: url(#green-gradient);" />
 <rect x="840" y="175" width="40" height="30" style="fill: url(#green-gradient);" />
 <rect x="840" y="225" width="40" height="30" style="fill: url(#green-gradient);" />
 <rect x="840" y="275" width="40" height="30" style="fill: url(#green-gradient);" />
@@ -114,5 +115,6 @@
 <rect x="840" y="625" width="40" height="30" style="fill: url(#lightblue-gradient);" />
 <rect x="840" y="675" width="40" height="30" style="fill: url(#lightblue-gradient);" />
 <rect x="840" y="725" width="40" height="30" style="fill: url(#lightblue-gradient);" />
+-->
 
 </svg>
