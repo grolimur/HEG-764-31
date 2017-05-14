@@ -5,7 +5,7 @@ Seules les bases de données multidisciplinaires et spécialisées sont représe
 
 ### Couverture temporelle
 
-![couverture temporelle](../img/DB-time-frame.png)   
+![couverture temporelle](../img/DB-time-frame.svg)   
 
 ### Taille
 
