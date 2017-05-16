@@ -29,13 +29,13 @@ Objectifs spécifiques:
 Raphaël Grolimund [raphael.grolimund@hesge.ch](mailto:raphael.grolimund@hesge.ch)   
 
 
-## Version `0.1.9`
+## Version `0.2`
 La dernière version de ce document est disponible sur [https://www.gitbook.com/book/grolimur/heg-764-31](https://www.gitbook.com/book/grolimur/heg-764-31).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
 *Historique des versions*   
 **0.1**: version initiale (17.05.2016)   
-**0.1.5**: mise à jour données mai 2017 (13.05.2017)   
+**0.2**: mise à jour 2017 (16.05.2017)   
 
 ## Licence `CC BY`
 ![logo-CC-BY](img/by.svg)   

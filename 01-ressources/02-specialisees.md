@@ -53,7 +53,7 @@ Domaines: **mathématiques**, probabilités, statistiques
 | :-------- | :---- |
 | type | B |
 | producteur | American Mathematical Society |
-| accès HEG | *pas d'accès* |
+| accès HEG | accès via Swissuniversities |
 | nb docs/titres | **3.4 millions de publications** provenant de <br/>550 journaux |
 | accès | limité |
 | couverture temporelle | env. 1800 -> |
@@ -83,7 +83,7 @@ Domaines: **biologie**, **médecine**
 | :-------- | :---- |
 | type | B |
 | producteur | National Library of Medecine |
-| accès HEG | pubmed.com | Web of Science | Ovid |
+| accès HEG | pubmed.com, Web of Science, Ovid ou ProQuest |
 | nb docs/titres | **23 millions d'articles** provenant de <br/>5'600 journaux |
 | accès | ouvert* |
 | couverture temporelle | 1946 -> |
@@ -100,7 +100,7 @@ Domaines: **chimie**, pharmacie
 | :-------- | :---- |
 | type | B |
 | producteur | Chemical Abstracts Service |
-| accès HEG | *pas d'accès* |
+| accès HEG | accès via Swissuniversities |
 | nb docs/titres | **45 millions d'articles** provenant de <br/>journaux <br/>brevets <br/>rapports techniques <br/>livres <br/>thèses |
 | accès | limité |
 | couverture temporelle | 1907 -> |
