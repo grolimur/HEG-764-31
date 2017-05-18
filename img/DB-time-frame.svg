@@ -83,7 +83,7 @@
 <rect x="600" y="125" width="240" height="30" style="fill: #ef5354;" />
 <rect x="446" y="175" width="394" height="30" style="fill:#ef5354;" />
 <line x1="792" y1="175" x2="792" y2="205" style="stroke: black; stroke-width: 1px;" />
-<rect x="790" y="225" width="50" height="30" style="fill: #ef5354;" />
+<rect x="446" y="225" width="394" height="30" style="fill: #ef5354;" />
 <rect x="464" y="275" width="376" height="30" style="fill: #ef5354;" />
 <rect x="740" y="325" width="100" height="30" style="fill: #ef5354;" />
 <rect x="738" y="375" width="102" height="30" style="fill: #ef5354;" />
