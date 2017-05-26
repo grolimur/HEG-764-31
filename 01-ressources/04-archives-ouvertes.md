@@ -7,7 +7,7 @@
 | La couverture temporelle des archives ouvertes est à la fois moins claire et moins importante que pour les bases de données commerciales. |
 
 ## arXiv
-Serveur de *preprints* thématique
+Serveur de *preprints* thématique   
 Domaines: **physique**, **mathématiques**, **informatique**, finance, statistiques
 
 | Rubriques | Infos |
@@ -25,7 +25,7 @@ Domaines: **physique**, **mathématiques**, **informatique**, finance, statistiq
 
 
 ## biorXiv
-Serveur de *preprints* thématique
+Serveur de *preprints* thématique   
 Domaine: **sciences biomédicales**
 
 | Rubriques | Infos |
@@ -43,7 +43,7 @@ Domaine: **sciences biomédicales**
 
 
 ## CERN Document Server
-Archive ouverte institutionnelle et thématique\*
+Archive ouverte institutionnelle et thématique\*   
 Domaine: physique des hautes énergies
 
 | Rubriques | Infos |

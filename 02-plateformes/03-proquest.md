@@ -4,7 +4,7 @@
 | :-------- | :---- |
 | opérateurs<br/>booléens | AND<br/>OR<br/>NOT |
 | opérateurs<br/>de proximité | NEAR/*n*, N/*n*<br/>PRE/*n*, P/*n*, - |
-| troncature | \* (0 à 5 caractères)<br/>? (un caractère)<br/>$n, \[\*n\] (nb max. de caractères - max. 50)<br/> *troncature possible au milieu et à droite*<br/>\< *date*<br/>\> *date*<br/>\<= *date*<br/>\>= *date*<br/>*date*-*date* |
+| troncature | \* (0 à 5 caractères)<br/>? (un caractère)<br/>$n, \[\*n\] (nb max. de caractères - max. 50)<br/> *troncature possible au milieu et à droite*<br/>< *date*<br/>> *date*<br/><= *date*<br/>>= *date*<br/>*date*-*date* |
 | phrase | EXACT("..."), X("...") |
 | interprétation<br/>de la requête | oui (*stemming* et variantes UK/US) |
 | historique | oui |

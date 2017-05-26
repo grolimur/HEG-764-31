@@ -1,6 +1,6 @@
 # BASES DE DONNÉES SPÉCIALISÉES
 
-*Voici les principales bases de données **spcéialisées** en sciences & techniques*   
+*Voici les principales bases de données **spécialisées** en sciences & techniques*   
 
 ## GEOBASE
 Domaines: **géographie**, **science de la terre**, écologie, environnement
@@ -90,7 +90,7 @@ Domaines: **biologie**, **médecine**
 
 Plus d'infos dans la [*Medline Fact Sheet*](https://www.nlm.nih.gov/pubs/factsheets/medline.html).   
 90% du contenu de Pubmed provient de Medline et 10% d'autres sources.   
-\* **PubMed** est une plateforme ouverte à tous. Par contre, l'accès à Web of Science et Ovid est limité.
+\* **PubMed** est une plateforme ouverte à tous. Par contre, l'interrogation depuis Web of Science p. ex. est limitée.
 
 
 ## Chemical Abstracts

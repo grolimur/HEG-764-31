@@ -84,4 +84,4 @@ Compendex est une base de données multidisciplinaire, mais dans les domaines de
 | couverture temporelle | 1969 -> |
 
 *source*: [Elsevier - Inspec Database for Engineering Researchers](https://www.elsevier.com/solutions/engineering-village/content/inspec)   
-Compendex est une base de données multidisciplinaire, mais dans les domaines de l'ingénierie seulement (**physique, électronique, informatique, mécanique**, etc.).   
+Inspec est une base de données multidisciplinaire, mais dans les domaines de l'ingénierie seulement (**physique, électronique, informatique, mécanique**, etc.).   

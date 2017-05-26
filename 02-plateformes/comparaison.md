@@ -10,15 +10,13 @@
 | **IN** | oui | oui | oui | oui | oui | oui | oui | oui |
 | **HI** | oui | oui | oui | oui | oui | oui | non | oui |
 
-\* G: gauche, M: milieu, D: droite   
-
 **FCT: fonctionnalités**   
 BO: opérateurs booléens   
 PR: opérateurs de proximité   
 TR: troncature   
-LT: lieu de la troncature   
+LT: lieu de la troncature (G: gauche, M: milieu, D: droite)   
 PH: phrase exact   
-IN: interprétation   
+IN: interprétation de la requête   
 HI: historique   
 
 EV: Engineering Village   
@@ -28,4 +26,4 @@ PM: PubMed
 SD: ScienceDirect   
 SC: Scopus   
 SL: SpringerLink   
-WOS: Webof Science   
+WOS: Web of Science   
