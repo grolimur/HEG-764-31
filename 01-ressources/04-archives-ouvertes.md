@@ -8,7 +8,7 @@
 
 ## arXiv
 Serveur de *preprints* thématique   
-Domaines: **physique**, **mathématiques**, **informatique**, finance, statistiques
+Domaines: **physique**, **mathématiques**, **informatique**, finance, statistiques + génie et systèmes électriques (depuis sept. 2017 - [source](https://arxiv.org/help/eess/announcement))
 
 | Rubriques | Infos |
 | :-------- | :---- |
