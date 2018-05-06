@@ -21,3 +21,8 @@
 `$management` renvoie manage, managed, manager, managers, managing, management, etc.   
 
 *source*: [Engineering Village Help](http://help.engineeringvillage.com)
+
+*Notes personnelles*
+
+---
+

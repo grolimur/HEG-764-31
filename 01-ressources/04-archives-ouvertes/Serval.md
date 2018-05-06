@@ -10,7 +10,7 @@ Archive institutionnelle
 | accès | ouvert |
 | couverture temporelle | (créé en 2009) |
 
-*source*: [Recherche Serval](https://serval.unil.ch/)   
+*source*: [Recherche - Serval](https://serval.unil.ch/)   
 
 *Notes personnelles*
 

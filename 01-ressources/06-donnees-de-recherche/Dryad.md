@@ -9,7 +9,7 @@
 | accès | ouvert |
 | couverture temporelle | (créé en 2012)\* |
 
-*source*: [Dryad - section Stats](https://datadryad.org)   
+*source*: [Search Results - Dryad](https://datadryad.org/discover?query=&submit=Search#advanced)   
 \* la plateforme a été créée en 2012, mais les publications qui y sont déposées peuvent être plus anciennes   
 
 *Notes personnelles*

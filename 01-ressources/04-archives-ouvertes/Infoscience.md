@@ -10,7 +10,7 @@ Archive institutionnelle
 | accès | ouvert |
 | couverture temporelle | (créé en 2004) |
 
-*source*: [Recherche Infoscience](https://infoscience.epfl.ch/)   
+*source*: [Infoscience](https://infoscience.epfl.ch/)   
 
 *Notes personnelles*
 

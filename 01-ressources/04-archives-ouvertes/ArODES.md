@@ -10,7 +10,7 @@ Archive institutionnelle du domaine Économie et Services de la HES-SO
 | accès | ouvert |
 | couverture temporelle | (créé en 2015)\* |
 
-*source*: [A propos d’ArODES HES-SO](http://arodes.hes-so.ch/static/about-fr.html)   
+*source*: [ArODES](http://arodes.hes-so.ch/)   
 \* ArODES a été créé en 2015, mais les publications ont été indexées jusqu'en 1999.
 
 *Notes personnelles*

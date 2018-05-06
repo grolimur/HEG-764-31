@@ -1,4 +1,4 @@
-## biorXiv
+## bioRxiv
 Serveur de *preprints* thématique   
 Domaine: **sciences biomédicales**
 
@@ -11,9 +11,9 @@ Domaine: **sciences biomédicales**
 | accès | ouvert |
 | couverture temporelle | \** |
 
-*source*: [About biorXiv](http://biorxiv.org/about-biorxiv)   
+*source*: [About bioRxiv](http://biorxiv.org/about-biorxiv)   
 \* Basé sur le principe d'arXiv, biorXiv ne collecte que des ***preprints*** (cf. arXiv).   
-\** biorXiv a été créé en 2013, mais les documents qui y sont déposés peuvent être un peu plus anciens.   
+\** bioRxiv a été créé en 2013, mais les documents qui y sont déposés peuvent être un peu plus anciens.   
 
 *Notes personnelles*
 

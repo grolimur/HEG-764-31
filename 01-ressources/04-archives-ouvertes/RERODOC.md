@@ -1,4 +1,4 @@
-## RERODOC
+## RERO DOC
 Archive institutionnelle
 
 | Rubriques | Infos |
@@ -10,7 +10,7 @@ Archive institutionnelle
 | accès | ouvert |
 | couverture temporelle | (créé en 2010?) |
 
-*source*: [A propos d’ArODES HES-SO](http://arodes.hes-so.ch/static/about-fr.html)   
+*source*: [RERO DOC](https://doc.rero.ch/)   
 
 *Notes personnelles*
 

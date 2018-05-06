@@ -27,3 +27,8 @@ SD: ScienceDirect
 SC: Scopus   
 SL: SpringerLink   
 WOS: Web of Science   
+
+*Notes personnelles*
+
+---
+

@@ -14,7 +14,7 @@ Le cours **Recherche d'information dans les sources spécialisées** (HEG-764-31
 
 
 ## Objectifs du cours
-Cf. [descriptif du module 764-3](https://www.hesge.ch/heg/sites/default/files/formation-base/ID/764-3n-sources-specialisees-services-aux-publics.pdf)
+Cf. [descriptif du module 764-3](https://www.hesge.ch/heg/sites/default/files/formation-base/ID/plan-modulaire/764-3n_descriptif_de_modulevfinale_2017_2018.pdf)
 
 Les cours permettent à l’étudiant de connaître les principales ressources dans ces domaines et de se familiariser avec leur utilisation. Ils sont capables d’identifier les besoins du chercheur d’information.   
 
@@ -29,7 +29,7 @@ Objectifs spécifiques:
 Raphaël Grolimund [raphael.grolimund@hesge.ch](mailto:raphael.grolimund@hesge.ch)   
 
 
-## Version `0.2.9.1beta`
+## Version `0.2.9.2beta`
 La dernière version de ce document est disponible sur [https://www.gitbook.com/book/grolimur/heg-764-31](https://www.gitbook.com/book/grolimur/heg-764-31).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 

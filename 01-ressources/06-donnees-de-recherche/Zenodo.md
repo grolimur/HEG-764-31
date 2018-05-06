@@ -9,7 +9,7 @@
 | accès | ouvert |
 | couverture temporelle | (lancé en 2013)\*** |
 
-*source*: [Recherche Zenodo](https://zenodo.org/search?page=1&size=20&q=)   
+*source*: [Zenodo](https://zenodo.org/search)   
 \* dans bien des domaines scientifiques, les images sont les données que produit la recherche (imagerie médicale, p.ex.)   
 \** les logiciels sauvegardés peuvent servir à lire les données publiés sur Zenodo   
 \*** la plateforme a été lancée en mai 2013, mais les publications qui y sont déposées peuvent être plus anciennes    
