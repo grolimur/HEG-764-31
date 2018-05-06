@@ -1,6 +1,6 @@
 # Recherche d'information dans les sources spécialisées en sciences & techniques
 
-## Description
+## Contexte
 Le cours **Recherche d'information dans les sources spécialisées** (HEG-764-31) dispensé à la Haute école de gestion (HEG) de Genève, filière Information documentaire (ID), est découpé en 3 parties, couvrant chacune des domaines différents:
 
 > sciences humaines et sociales   
@@ -29,16 +29,11 @@ Objectifs spécifiques:
 Raphaël Grolimund [raphael.grolimund@hesge.ch](mailto:raphael.grolimund@hesge.ch)   
 
 
-## Version `0.2.4`
+## Version `0.2.9.1beta`
 La dernière version de ce document est disponible sur [https://www.gitbook.com/book/grolimur/heg-764-31](https://www.gitbook.com/book/grolimur/heg-764-31).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
-*Historique des versions*   
-**0.1**: version initiale (17.05.2016)   
-**0.2**: mise à jour 2017 (16.05.2017)   
-**0.2.1**: corr. ScienceDirect (18.05.2017)   
-**0.2.2**: corr. coquilles (26.05.2017)   
-**0.2.4**: ajout nouveauté arXiv + corr. lien (24.09.2017)   
+L'historique complet des versions est disponible à la [fin du document](versions.md).
 
 ## Licence `CC BY`
 ![logo-CC-BY](img/by.svg)   

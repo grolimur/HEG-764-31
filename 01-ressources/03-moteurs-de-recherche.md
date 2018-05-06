@@ -6,7 +6,7 @@
 
 | Rubriques | Infos |
 | :-------- | :---- |
-| type | M |
+| type | **moteur** de recherche |
 | producteur | Google |
 | accès HEG | site de Google |
 | nb docs/titres | ? |

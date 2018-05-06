@@ -1,4 +1,5 @@
-# GÉNÉRALITÉS BASES DE DONNÉES EN SCIENCES & TECHNIQUES
+# À PROPOS DES RESSOURCES
+
 
 *Voici une sélection des principales bases de données dans le domaine des sciences & techniques*   
 
@@ -16,13 +17,11 @@ physique
 
 ## TYPES DE RESSOURCES
 
-Les tableaux de présentation des ressources contiennent une rubrique **type**, qu'il faut comprendre comme suit.
+Les tableaux de présentation des ressources contiennent une rubrique **type** qui peut prendre les valeurs suivantes.
 
-| Valeur | Signification |
-| :----- | :------------ |
-| A | **archive** ouverte |
-| B | base de données **bibliographique** |
-| D | dépôt de **données de recherche** |
-| E | site d'**éditeur** |
-| M | **moteur** de recherche |
-| R | **réseau social** (scientifique) |
+**archive** ouverte   
+base de données **bibliographique**   
+dépôt de **données de recherche**   
+site d'**éditeur**   
+**moteur** de recherche   
+**réseau social** (scientifique)   
