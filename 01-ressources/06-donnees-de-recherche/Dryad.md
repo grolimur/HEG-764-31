@@ -5,7 +5,7 @@
 | type | dépôt de **données de recherche** |
 | producteur | North Carolina State University |
 | accès HEG | datadryad.org |
-| nb docs/titres | **15'900 sets de données** |
+| nb docs/titres | **21'600 sets de données** |
 | accès | ouvert |
 | couverture temporelle | (créé en 2012)\* |
 

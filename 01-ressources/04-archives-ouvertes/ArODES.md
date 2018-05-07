@@ -6,7 +6,7 @@ Archive institutionnelle du domaine Économie et Services de la HES-SO
 | type | **archive** ouverte |
 | producteur | Infothèque HEG / HES-SO |
 | accès HEG | arodes.hes-so.ch |
-| nb docs/titres | **1'400 publications** |
+| nb docs/titres | **1'700 publications** |
 | accès | ouvert |
 | couverture temporelle | (créé en 2015)\* |
 

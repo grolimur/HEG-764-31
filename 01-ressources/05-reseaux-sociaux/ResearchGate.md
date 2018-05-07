@@ -9,7 +9,7 @@
 | accès | inscription gratuite |
 | couverture temporelle | ? |
 
-\* Créé en 2008, ResearchGate revendique 12 millions de membres. Cela ne donne pas le nombre de documents référencés ou mis en ligne, mais cela permet de comparer avec les autres plateformes.   
+\* Créé en 2008, ResearchGate revendique **15 millions de membres**. Cela ne donne pas le nombre de documents référencés ou mis en ligne, mais cela donne un point de comparaison avec les autres plateformes.   
 *source*: [ResearchGate - About us](https://www.researchgate.net/about)   
 
 *Notes personnelles*

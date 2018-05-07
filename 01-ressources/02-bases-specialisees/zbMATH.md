@@ -6,9 +6,9 @@ Domaines: **mathématiques**, probabilités, statistiques
 | type | base de données **bibliographique** |
 | producteur | Fachinformationszentrum Karlsruhe |
 | accès HEG | *pas d'accès* |
-| nb docs/titres | **3.7 millions de publications** dont <br/>3.1 millions d'articles (6'300 journaux) <br/> 437'000 articles de conférence et chapitres de livre <br/> 178'000 livres et thèses |
+| nb docs/titres | **3.8 millions de publications** dont <br/>3.2 millions d'articles (6'400 journaux) <br/> 450'000 articles de conférence et chapitres de livre <br/> 185'000 livres et thèses |
 | accès | limité |
-| couverture temporelle | 1868 -> |
+| couverture temporelle | 1755 -> |
 
 *source*: [About zbMATH - Facts & Figures](https://zbmath.org/about/#id_4)
 

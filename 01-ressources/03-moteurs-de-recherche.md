@@ -8,7 +8,7 @@
 | :-------- | :---- |
 | type | **moteur** de recherche |
 | producteur | Google |
-| accès HEG | site de Google |
+| accès HEG | scholar.google.com |
 | nb docs/titres | ? |
 | accès | ouvert |
 | couverture temporelle | ? |
@@ -19,7 +19,7 @@ Google Scholar n'est pas le seul moteur de recherche académique, mais c'est de 
 [Bielefeld Academic Search Engine (BASE)](https://www.base-search.net/)   
 [CiteSeerX](http://citeseerx.ist.psu.edu)   
 [Wolfram Alpha](https://www.wolframalpha.com)    
-Même Elsevier proposait le sien ([Scirus](http://www.sciencedirect.com/scirus/)) mais l'a abandonné.   
+Un temps, Elsevier a proposé le sien ([Scirus](http://www.sciencedirect.com/scirus/)) mais a finalement abandonné.   
 
 *Notes personnelles*
 

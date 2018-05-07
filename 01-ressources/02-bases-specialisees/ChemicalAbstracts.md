@@ -6,7 +6,7 @@ Domaines: **chimie**, pharmacie
 | type | base de données **bibliographique** |
 | producteur | Chemical Abstracts Service |
 | accès HEG | accès via Swissuniversities |
-| nb docs/titres | **45 millions d'articles** provenant de <br/>journaux <br/>brevets <br/>rapports techniques <br/>livres <br/>thèses |
+| nb docs/titres | **47 millions d'articles** provenant de <br/>50'000 journaux <br/>brevets <br/>rapports techniques <br/>livres <br/>thèses |
 | accès | limité |
 | couverture temporelle | 1907 -> |
 

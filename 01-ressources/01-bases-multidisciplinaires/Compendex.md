@@ -10,7 +10,7 @@
 | couverture temporelle | 1970 -> |
 
 *source*: [Elsevier - Ei Compendex](https://www.elsevier.com/solutions/engineering-village/content/compendex)   
-Compendex est une base de données multidisciplinaire, mais dans les domaines de l'ingénierie seulement (**physique, bioingénierie, technologie, matériaux, électronique, mécanique**, etc.).   
+Compendex est une base de données multidisciplinaire, mais ne couvrent que les domaines liés à l'ingénierie (**physique, bioingénierie, technologie, matériaux, électronique, mécanique**, etc.).   
 
 *Notes personnelles*
 
