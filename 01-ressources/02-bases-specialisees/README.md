@@ -4,8 +4,8 @@
 
 | bases de données spécialisées |
 | :-- |
-| GEOBASE |
-| GeoRef |
+| GEOBASE (*pas d'accès à la HEG*) |
+| GeoRef (*pas d'accès à la HEG*) |
 | IEEE Xplore |
 | MathSciNet |
 | zbMATH |

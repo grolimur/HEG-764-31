@@ -9,3 +9,4 @@
 **0.2.9.2beta**: vérification de tous les liens du document (6.05.2018)   
 **0.2.9.3beta**: mise à jour des informations concernant les ressources (7.05.2018)   
 **0.2.9.4beta**: corrections mineures concernant les ressources (7.05.2018)   
+**0.2.9.5beta**: mise à jour des plateformes (8.05.2018)   

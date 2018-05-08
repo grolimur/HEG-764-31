@@ -5,7 +5,7 @@ Domaines: **biologie**, **médecine**
 | :-------- | :---- |
 | type | base de données **bibliographique** |
 | producteur | National Library of Medecine |
-| accès HEG | pubmed.com, Web of Science, Ovid ou ProQuest |
+| accès HEG | [http://www.pubmed.com](http://www.pubmed.com), Web of Science, ... |
 | nb docs/titres | **24 millions d'articles** provenant de <br/>5'200 journaux |
 | accès | ouvert* |
 | couverture temporelle | 1946 -> |

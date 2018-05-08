@@ -4,10 +4,12 @@
 | :-------- | :---- |
 | opérateurs<br/>booléens | AND<br/>OR<br/>NOT |
 | opérateurs<br/>de proximité | NEAR/*n*, N/*n*<br/>PRE/*n*, P/*n*, - |
-| troncature | \* (0 à 5 caractères)<br/>? (un caractère)<br/>$n, \[\*n\] (nb max. de caractères - max. 50)<br/> *troncature possible au milieu et à droite*<br/>< *date*<br/>> *date*<br/><= *date*<br/>>= *date*<br/>*date*-*date* |
+| troncature | \* (0 à 5 caractères)<br/>? (un caractère exactement)<br/>$n, \[\*n\] (nb max. de caractères - max. 50)<br/> *troncature possible au milieu et à droite*<br/>< *date*<br/>> *date*<br/><= *date*<br/>>= *date*<br/>*date*-*date* |
 | phrase | EXACT("..."), X("...") |
-| interprétation<br/>de la requête | oui (*stemming* et variantes UK/US) |
+| interprétation<br/>de la requête | oui (*search expansion* *) |
 | historique | oui |
+
+\* La plateforme ProQuest cherche automatiquement les vairantes UK/US, les comparatifs (ex. smaller, bigger), superlatifs (ex. smallest, biggest) et les pluriels (ex. tree, trees).
 
 **Exemples**   
 `nursing NEAR education` renvoie les résultats où "nursing" se trouve à max. 4 mots de "education" (valeur par défaut).   

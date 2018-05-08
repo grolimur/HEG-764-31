@@ -16,6 +16,9 @@
 `Nure?berg` renvoie Nuremberg et Nurenberg   
 `?ight` renvoie light, right, eight, fight, might, etc.   
 `locom!` renvoie locomotive, locomotives, and locomotion   
+`{heart-attack}` et `{heart attack}` renvoient des résultats différents.   
+Idem pour `"heart-attack"` et `"heart attack"`.   
+`"criminal* insan*"` renvoie criminally insane, criminal insanity, etc.
 
 *source*: [Scopus: Access and use Support Center - Document search tips](https://service.elsevier.com/app/answers/detail/a_id/11213/supporthub/scopus/#tips)
 

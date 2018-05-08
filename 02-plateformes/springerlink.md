@@ -2,7 +2,7 @@
 
 | Fonctionnalités | Possibilités |
 | :-------- | :---- |
-| opérateurs<br/>booléens | AND, &<br/>OR<br/>NOT |
+| opérateurs<br/>booléens | AND, &<br/>OR, |<br/>NOT |
 | opérateurs<br/>de proximité | NEAR/*n*<br/>ONEAR/*n*  |
 | troncature | \* (zéro ou plus de caractères)<br/>? (un caractère) <br/>*troncature possible au milieu et à droite* |
 | phrase | "..." |

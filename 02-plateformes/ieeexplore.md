@@ -19,7 +19,7 @@
 
 `"computer"` renvoie computer exactement (pas computers)
 
-*source*: [IEEE Xplore Global Search](http://ieeexplore.ieee.org/Xplorehelp/#/searching-ieee-xplore/global-search) & [IEEE Xplore Search Tips](http://ieeexplore.ieee.org/Xplorehelp/#/searching-ieee-xplore/search-tips)
+*source*: [IEEE Xplore Search Tips](http://ieeexplore.ieee.org/Xplorehelp/#/searching-ieee-xplore/search-tips) & [IEEE Xplore Command Search](https://ieeexplore.ieee.org/Xplorehelp/#/searching-ieee-xplore/command-search)
 
 *Notes personnelles*
 

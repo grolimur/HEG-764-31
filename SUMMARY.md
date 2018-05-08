@@ -52,6 +52,7 @@
     * [Scopus](02-plateformes/scopus.md)
     * [SpringerLink](02-plateformes/springerlink.md)
     * [Web of Science](02-plateformes/webofscience.md)
+    * [Wiley Online Library](02-plateformes/wiley.md)
     * [Tableau comparatif](02-plateformes/comparaison.md)
 
 ## Annexe

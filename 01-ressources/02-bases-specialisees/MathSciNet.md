@@ -5,7 +5,7 @@ Domaines: **mathématiques**, probabilités, statistiques
 | :-------- | :---- |
 | type | base de données **bibliographique** |
 | producteur | American Mathematical Society |
-| accès HEG | accès via Swissuniversities (url?) |
+| accès HEG | [http://www.ams.org/mathscinet](http://www.ams.org/mathscinet) |
 | nb docs/titres | **3 millions de publications** provenant de <br/>550 journaux |
 | accès | limité |
 | couverture temporelle | env. 1800 -> |

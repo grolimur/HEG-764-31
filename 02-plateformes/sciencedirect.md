@@ -4,10 +4,10 @@
 | :-------- | :---- |
 | opérateurs<br/>booléens | AND<br/>OR<br/>AND NOT |
 | opérateurs<br/>de proximité | W/*n*<br/>PRE/*n* |
-| troncature | \* (zéro ou plus de caractères)<br/>? (un caractère) <br/>*troncature possible à gauche, au milieu et à droite* |
+| troncature | \* (zéro ou plus de caractères)<br/>? (un caractère exactement) <br/>*troncature possible à gauche, au milieu et à droite* |
 | phrase | "..."<br/>{...} |
 | interprétation<br/>de la requête | oui |
-| historique | oui |
+| historique | oui (après création d'un compte) |
 
 **Exemples**   
 `pain W/15 morphine` renvoie les résultats où "pain" se trouve à max. 15 mots de "morphine".   

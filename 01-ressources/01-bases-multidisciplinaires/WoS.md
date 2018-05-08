@@ -4,7 +4,7 @@
 | :-------- | :---- |
 | type | base de données **bibliographique** |
 | producteur | Clarivate Analytics |
-| accès HEG | https://webofknowledge.com/WOS |
+| accès HEG | [https://webofknowledge.com/WOS](https://webofknowledge.com/WOS) |
 | nb docs/titres | **100 millions\* de publications** dont<br/>20'000 journaux <br/>actes de conférences <br/>des livres |
 | accès | limité |
 | couverture temporelle | 1900 -> |

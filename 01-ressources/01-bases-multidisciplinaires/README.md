@@ -5,9 +5,9 @@
 | bases de données multidisciplinaires |
 | :-- |
 | Web of Science Core Collection |
-| Scopus |
+| Scopus (*pas d'accès à la HEG*) |
 | ScienceDirect |
 | SpringerLink |
-| Compendex |
+| Compendex (*pas d'accès à la HEG*) |
 | Inspec |
 | Wiley Online Library |
