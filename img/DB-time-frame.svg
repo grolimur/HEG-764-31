@@ -5,7 +5,7 @@
 <!--  Scientific databases time frame coverage  -->
 <!-- ****************************************** -->
 <!-- Auteur  : Raphaël Grolimund                -->
-<!-- Date    : 2017-05-14                       -->
+<!-- Date    : 2018-05-11                       -->
 <!-- Contact : grolimur@nous4.ch                -->
 <!-- Twitter : @grolimur                        -->
 <!-- Github  : grolimur                         -->
@@ -64,40 +64,42 @@
 <line x1="860" y1="120" x2="860" y2="760" style="stroke: black; stroke-width: 1px; stroke-dasharray:6,6;" />
 
 <!-- database list -->
-<text x="40" y="150" style="font-size: 30px;" >Web of Science CC</text>
+<text x="40" y="150" style="font-size: 30px;" >Web of Science</text><text x="280" y="150" style="font-size: 15px;" >Core Collection</text>
 <text x="40" y="200" style="font-size: 30px;" >Scopus</text>
 <text x="40" y="250" style="font-size: 30px;" >ScienceDirect</text>
 <text x="40" y="300" style="font-size: 30px;" >SpringerLink</text>
 <text x="40" y="350" style="font-size: 30px;" >Compendex</text>
 <text x="40" y="400" style="font-size: 30px;" >Inspec</text>
+<text x="40" y="450" style="font-size: 30px;" >Wiley Online Library</text>
 
-<text x="40" y="450" style="font-size: 30px;" >GEOBASE</text>
-<text x="40" y="500" style="font-size: 30px;" >GeoRef</text>
-<text x="40" y="550" style="font-size: 30px;" >IEEE Xplore</text>
-<text x="40" y="600" style="font-size: 30px;" >MathSciNet</text>
-<text x="40" y="650" style="font-size: 30px;" >zbMATH</text>
-<text x="40" y="700" style="font-size: 30px;" >Medline</text>
-<text x="40" y="750" style="font-size: 30px;" >Chemical Abstracts</text>
+<text x="40" y="500" style="font-size: 30px;" >GEOBASE</text>
+<text x="40" y="550" style="font-size: 30px;" >GeoRef</text>
+<text x="40" y="600" style="font-size: 30px;" >IEEE Xplore</text>
+<text x="40" y="650" style="font-size: 30px;" >MathSciNet</text>
+<text x="40" y="700" style="font-size: 30px;" >zbMATH</text>
+<text x="40" y="750" style="font-size: 30px;" >Medline</text>
+<text x="40" y="800" style="font-size: 30px;" >Chemical Abstracts</text>
 
 <!-- time frame -->
 <rect x="600" y="125" width="240" height="30" style="fill: #ef5354;" />
-<rect x="446" y="175" width="394" height="30" style="fill:#ef5354;" />
-<line x1="792" y1="175" x2="792" y2="205" style="stroke: black; stroke-width: 1px;" />
+<rect x="376" y="175" width="464" height="30" style="fill:#ef5354;" />
+<line x1="740" y1="175" x2="740" y2="205" style="stroke: black; stroke-width: 1px;" />
 <rect x="446" y="225" width="394" height="30" style="fill: #ef5354;" />
-<rect x="464" y="275" width="376" height="30" style="fill: #ef5354;" />
+<rect x="430" y="275" width="410" height="30" style="fill: #ef5354;" />
 <rect x="740" y="325" width="100" height="30" style="fill: #ef5354;" />
 <rect x="738" y="375" width="102" height="30" style="fill: #ef5354;" />
+<rect x="794" y="425" width="56" height="30" style="fill: #ef5354;" />
 
-<rect x="748" y="425" width="92" height="30" style="fill: #f2c02b;" />
-<rect x="200" y="475" width="640" height="30" style="fill: #f2c02b;" />
-<text x="210" y="496" style="font-size: 14px;" >1669</text>
-<line x1="786" y1="475" x2="786" y2="505" style="stroke: black; stroke-width: 1px;" />
-<rect x="544" y="525" width="296" height="30" style="fill: #f2c02b;" />
-<line x1="776" y1="525" x2="776" y2="555" style="stroke: black; stroke-width: 1px;" />
-<rect x="400" y="575" width="440" height="30" style="fill: #f2c02b;" />
-<rect x="536" y="625" width="304" height="30" style="fill: #f2c02b;" />
-<rect x="692" y="675" width="148" height="30" style="fill: #f2c02b;" />
-<rect x="614" y="725" width="226" height="30" style="fill: #f2c02b;" />
+<rect x="748" y="475" width="92" height="30" style="fill: #f2c02b;" />
+<rect x="200" y="525" width="640" height="30" style="fill: #f2c02b;" />
+<text x="210" y="546" style="font-size: 14px;" >1669</text>
+<line x1="786" y1="525" x2="786" y2="555" style="stroke: black; stroke-width: 1px;" />
+<rect x="544" y="575" width="296" height="30" style="fill: #f2c02b;" />
+<line x1="776" y1="575" x2="776" y2="605" style="stroke: black; stroke-width: 1px;" />
+<rect x="400" y="625" width="440" height="30" style="fill: #f2c02b;" />
+<rect x="536" y="675" width="304" height="30" style="fill: #f2c02b;" />
+<rect x="692" y="725" width="148" height="30" style="fill: #f2c02b;" />
+<rect x="614" y="775" width="226" height="30" style="fill: #f2c02b;" />
 
 <!-- gradient -->
 <rect x="840" y="125" width="40" height="30" style="fill: url(#red-gradient);" />
@@ -106,13 +108,14 @@
 <rect x="840" y="275" width="40" height="30" style="fill: url(#red-gradient);" />
 <rect x="840" y="325" width="40" height="30" style="fill: url(#red-gradient);" />
 <rect x="840" y="375" width="40" height="30" style="fill: url(#red-gradient);" />
+<rect x="840" y="425" width="40" height="30" style="fill: url(#red-gradient);" />
 
-<rect x="840" y="425" width="40" height="30" style="fill: url(#yellow-gradient);" />
 <rect x="840" y="475" width="40" height="30" style="fill: url(#yellow-gradient);" />
 <rect x="840" y="525" width="40" height="30" style="fill: url(#yellow-gradient);" />
 <rect x="840" y="575" width="40" height="30" style="fill: url(#yellow-gradient);" />
 <rect x="840" y="625" width="40" height="30" style="fill: url(#yellow-gradient);" />
 <rect x="840" y="675" width="40" height="30" style="fill: url(#yellow-gradient);" />
 <rect x="840" y="725" width="40" height="30" style="fill: url(#yellow-gradient);" />
+<rect x="840" y="775" width="40" height="30" style="fill: url(#yellow-gradient);" />
 
 </svg>
