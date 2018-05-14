@@ -1,5 +1,6 @@
 ## Historique des versions
 
+| version | date | commentaire |
 | :-- | ---------: | :--------------- |
 | 0.1 | 17.05.2016 | version initiale |
 | 0.2 | 16.05.2017 | mise à jour 2017 |
@@ -13,4 +14,3 @@
 | 0.2.9.5beta | 8.05.2018 | mise à jour des plateformes |
 | 0.2.9.6beta | 11.05.2018 | mise en page infographies + versions.md |
 | 0.3 | 14.05.2018 | dernière corr. sur v0.2.9 (CAplus + infographie) |
-
