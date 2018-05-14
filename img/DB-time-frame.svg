@@ -78,7 +78,7 @@
 <text x="40" y="650" style="font-size: 30px;" >MathSciNet</text>
 <text x="40" y="700" style="font-size: 30px;" >zbMATH</text>
 <text x="40" y="750" style="font-size: 30px;" >Medline</text>
-<text x="40" y="800" style="font-size: 30px;" >Chemical Abstracts</text>
+<text x="40" y="800" style="font-size: 30px;" >CAplus</text>
 
 <!-- time frame -->
 <rect x="600" y="125" width="240" height="30" style="fill: #ef5354;" />
@@ -92,12 +92,13 @@
 
 <rect x="748" y="475" width="92" height="30" style="fill: #f2c02b;" />
 <rect x="200" y="525" width="640" height="30" style="fill: #f2c02b;" />
-<text x="210" y="546" style="font-size: 14px;" >1669</text>
+<text x="210" y="546" style="font-size: 14px;">1669</text>
 <line x1="786" y1="525" x2="786" y2="555" style="stroke: black; stroke-width: 1px;" />
 <rect x="544" y="575" width="296" height="30" style="fill: #f2c02b;" />
 <line x1="776" y1="575" x2="776" y2="605" style="stroke: black; stroke-width: 1px;" />
 <rect x="400" y="625" width="440" height="30" style="fill: #f2c02b;" />
-<rect x="536" y="675" width="304" height="30" style="fill: #f2c02b;" />
+<rect x="310" y="675" width="530" height="30" style="fill: #f2c02b;" />
+<text x="320" y="696" style="font-size: 14px;">1755</text>
 <rect x="692" y="725" width="148" height="30" style="fill: #f2c02b;" />
 <rect x="614" y="775" width="226" height="30" style="fill: #f2c02b;" />
 

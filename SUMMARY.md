@@ -18,7 +18,7 @@
 		* [MathSciNet](01-ressources/02-bases-specialisees/MathSciNet.md)
 		* [zbMATH](01-ressources/02-bases-specialisees/zbMATH.md)
 		* [Medline](01-ressources/02-bases-specialisees/Medline.md)
-		* [ChemicalAbstracts](01-ressources/02-bases-specialisees/ChemicalAbstracts.md)
+		* [CAplus](01-ressources/02-bases-specialisees/CAplus.md)
     * [Moteurs de recherche](01-ressources/03-moteurs-de-recherche.md)
     * [Archives ouvertes](01-ressources/04-archives-ouvertes/README.md)
 	    * [arXiv](01-ressources/04-archives-ouvertes/arXiv.md)
