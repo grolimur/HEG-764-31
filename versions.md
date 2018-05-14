@@ -11,4 +11,6 @@
 | 0.2.9.3beta | 7.05.2018 | mise à jour des informations concernant les ressources |
 | 0.2.9.4beta | 7.05.2018 | corrections mineures concernant les ressources |
 | 0.2.9.5beta | 8.05.2018 | mise à jour des plateformes |
-| 0.2.9.6beta | 11.05.2018 | mise en page infographies + versions.md | 
+| 0.2.9.6beta | 11.05.2018 | mise en page infographies + versions.md |
+| 0.3 | 14.05.2018 | dernière corr. sur v0.2.9 (CAplus + infographie) |
+
