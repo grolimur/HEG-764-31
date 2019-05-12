@@ -29,8 +29,8 @@ Objectifs spécifiques:
 Raphaël Grolimund [raphael.grolimund@hesge.ch](mailto:raphael.grolimund@hesge.ch)   
 
 
-## Version `0.3`
-La dernière version de ce document est disponible sur [https://www.gitbook.com/book/grolimur/heg-764-31](https://www.gitbook.com/book/grolimur/heg-764-31).   
+## Version `0.3.9 RC`
+La dernière version de ce document est disponible sur [https://legacy.gitbook.com/book/grolimur/heg-764-31](https://legacy.gitbook.com/book/grolimur/heg-764-31).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
 L'historique complet des versions est disponible à la [fin du document](versions.md).

@@ -4,10 +4,10 @@
 
 | bases de données spécialisées |
 | :-- |
-| GEOBASE (*pas d'accès à la HEG*) |
-| GeoRef (*pas d'accès à la HEG*) |
-| IEEE Xplore |
-| MathSciNet |
-| zbMATH |
-| Medline |
-| Chemical Abstract |
+| ⛔️ GEOBASE |
+| ⛔️ GeoRef |
+| ✅ IEEE Xplore |
+| ✅ MathSciNet |
+| ✅ zbMATH |
+| ✅ Medline |
+| ✅ Chemical Abstract |

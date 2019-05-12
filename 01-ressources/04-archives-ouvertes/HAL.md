@@ -6,7 +6,7 @@ Archive ouverte pluridisciplinaire française
 | type | **archive** ouverte |
 | producteur | Centre pour la Communication Scientifique Directe (créé par le CNRS) |
 | accès HEG | serval.unil.ch |
-| nb docs/titres | **1.5 millions de publications** dont <br/>716'000 articles <br/>414'000 articles de conférence <br/>113'000 chapitres de livre <br/>77'000 thèses <br/>27'000 livres <br/>26'000 rapports |
+| nb docs/titres | **1.8 millions de publications** dont <br/>842'000 articles <br/>475'000 articles de conférence <br/>137'000 chapitres de livre <br/>87'000 thèses <br/>31'000 livres <br/>30'000 rapports |
 | accès | ouvert |
 | couverture temporelle | (lancé en 2001) |
 

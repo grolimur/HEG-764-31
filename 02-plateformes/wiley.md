@@ -23,4 +23,3 @@ La troncature ne peut pas être utilisée au début d'un mot-clé (ex. \*tension
 *Notes personnelles*
 
 ---
-

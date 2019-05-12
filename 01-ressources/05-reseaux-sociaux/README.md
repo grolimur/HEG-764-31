@@ -4,8 +4,8 @@ Voici les deux principaux **réseaux sociaux** scientifiques, auxquels s'ajoute 
 
 | réseaux sociaux scientifiques |
 | :-- |
-| ResearchGate |
 | Academia.edu |
+| ResearchGate |
 | Twitter |
 
-Twitter n'est ni à proprement parler un réseau social ni scientifique, mais il est de plus en plus utilisé par les scientifiques pour communiquer sur leurs publications. En effet, parmi les offres illégales pour accéder à de la littérature scientifiques, notons le hashtag #icanhazpdf utilisé sur Twitter.
+Twitter n'est ni à proprement parler un réseau social ni scientifique, mais il est de plus en plus utilisé par les scientifiques pour communiquer sur leurs publications. Parmi les **offres illégales** pour accéder à la littérature scientifiques, il y a le hashtag [#icanhazpdf](https://twitter.com/search?f=tweets&vertical=default&q=%23icanhazpdf).

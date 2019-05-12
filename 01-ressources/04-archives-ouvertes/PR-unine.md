@@ -6,7 +6,7 @@ Archive institutionnelle
 | type | **archive** ouverte |
 | producteur | Université de Neuchâtel |
 | accès HEG | https://libra.unine.ch/Publications |
-| nb docs/titres | **15'200 publications** |
+| nb docs/titres | **15'900 publications** |
 | accès | ouvert |
 | couverture temporelle | ? |
 
@@ -15,4 +15,3 @@ Archive institutionnelle
 *Notes personnelles*
 
 ---
-

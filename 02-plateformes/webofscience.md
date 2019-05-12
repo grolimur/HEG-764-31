@@ -32,4 +32,3 @@ Notez que l'aide de la plateforme Web of Science est adaptée à la base de donn
 *Notes personnelles*
 
 ---
-
