@@ -15,3 +15,4 @@
 | 0.2.9.6beta | 11.05.2018 | mise en page infographies + versions.md |
 | 0.3 | 14.05.2018 | dernière corr. sur v0.2.9 (CAplus + infographie) |
 | 0.3.9 RC | 12.05.2019 | mise à jour bases de données et plateformes |
+| 0.3.9 RC2 | 12.05.2019 | corr. erreur table des matières et màj couverture |
