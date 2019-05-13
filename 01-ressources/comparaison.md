@@ -6,7 +6,7 @@ Voici une vue d'ensemble des bases de données présentées pour voir en compare
 
 Google Scholar n'est pas inclus dans cette illustration, puisqu'on a aucune idée du nombre de références qu'il indexe.
 
-![taille](../img/DB-size.svg)   
+![taille](../img/DB-size.png)   
 
 ### Couverture temporelle
 

@@ -4,11 +4,11 @@ Voici la liste des plateformes sur lesquels vous êtes susceptibles d'interroger
 
 | plateforme |
 | :-- |
-| ⛔️ Engineering Village |
-| ✅ IEEE Xplore |
-| ✅ ProQuest |
-| ✅ PubMed |
-| ✅ ScienceDirect |
-| ⛔️ Scopus |
-| ✅ SpringerLink |
-| ✅ Web of Science |
+| Engineering Village [pas d'accès à la HEG] |
+| IEEE Xplore |
+| ProQuest |
+| PubMed |
+| ScienceDirect |
+| Scopus [pas d'accès à la HEG] |
+| SpringerLink |
+| Web of Science |
