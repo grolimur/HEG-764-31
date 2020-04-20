@@ -1,5 +1,5 @@
 ## zbMATH
-Domaines: **mathématiques**, probabilités, statistiques
+Domaines: `mathématiques`, `probabilités`, `statistiques`
 
 | Rubriques | Infos |
 | :-------- | :---- |

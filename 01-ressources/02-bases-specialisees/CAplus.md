@@ -1,5 +1,5 @@
 ## CAplus
-Domaines: **chimie**, pharmacologie
+Domaines: `chimie`, `pharmacologie`
 
 | Rubriques | Infos |
 | :-------- | :---- |

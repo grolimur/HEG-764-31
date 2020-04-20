@@ -1,5 +1,5 @@
 ## IEEE Xplore
-Domaines: **électronique**, **informatique**
+Domaines: `électronique`, `informatique`
 
 | Rubriques | Infos |
 | :-------- | :---- |

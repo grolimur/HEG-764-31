@@ -1,5 +1,5 @@
 ## GEOBASE
-Domaines: **géographie**, **science de la terre**, écologie, environnement
+Domaines: `géographie`, `science de la terre`, `écologie`, `environnement`
 
 | Rubriques | Infos |
 | :-------- | :---- |

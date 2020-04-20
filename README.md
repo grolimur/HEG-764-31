@@ -5,7 +5,7 @@ Le cours **Recherche d'information dans les sources spécialisées** (HEG-764-31
 
 > sciences humaines et sociales   
 > droit, économie et gestion   
-> sciences et techniques   
+> **sciences et techniques**   
 
 
 | IMPORTANT |
@@ -29,7 +29,7 @@ Objectifs spécifiques:
 Raphaël Grolimund [raphael.grolimund@hesge.ch](mailto:raphael.grolimund@hesge.ch)   
 
 
-## Version `0.3.9 RC3`
+## Version `0.3.9 RC4`
 La dernière version de ce document est disponible sur [https://legacy.gitbook.com/book/grolimur/heg-764-31](https://legacy.gitbook.com/book/grolimur/heg-764-31).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 

@@ -1,5 +1,5 @@
 ## Medline
-Domaines: **biologie**, **médecine**
+Domaines: `biologie`, `médecine`
 
 | Rubriques | Infos |
 | :-------- | :---- |

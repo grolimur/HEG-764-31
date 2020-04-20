@@ -1,5 +1,5 @@
 ## GeoRef
-Domaines: **géographie**, **science de la terre**, géologie
+Domaines: `géographie`, `science de la terre`, `géologie`
 
 | Rubriques | Infos |
 | :-------- | :---- |

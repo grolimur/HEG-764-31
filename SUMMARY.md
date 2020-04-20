@@ -12,6 +12,7 @@
 	* [Inspec](01-ressources/01-bases-multidisciplinaires/Inspec.md)
 	* [Wiley Online Library](01-ressources/01-bases-multidisciplinaires/Wiley.md)
 	* [Bases de données spécialisées](01-ressources/02-bases-specialisees/README.md)
+	* [ACM Digital Library](01-ressources/02-bases-specialisees/ACMDL.md)
 	* [GEOBASE](01-ressources/02-bases-specialisees/GEOBASE.md)
 	* [GeoRef](01-ressources/02-bases-specialisees/GeoRef.md)
 	* [IEEE Xplore](01-ressources/02-bases-specialisees/IEEEXplore.md)
@@ -44,6 +45,7 @@
 ## Plateformes
 
 * [À propos des plateformes](02-plateformes/README.md)
+    * [ACM Digital Library](02-plateformes/acmdigitallibrary.md)
     * [Engineering Village](02-plateformes/engineeringvillage.md)
     * [IEEE Explore](02-plateformes/ieeexplore.md)
     * [ProQuest](02-plateformes/proquest.md)
