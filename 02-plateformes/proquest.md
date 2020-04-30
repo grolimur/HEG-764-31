@@ -2,10 +2,10 @@
 
 | Fonctionnalités | Possibilités |
 | :-------- | :---- |
-| opérateurs<br/>booléens | AND<br/>OR<br/>NOT |
-| opérateurs<br/>de proximité | NEAR/*n*, N/*n*<br/>PRE/*n*, P/*n*, - |
-| troncature | \* (0 à 5 caractères)<br/>? (un caractère exactement)<br/>$n, \[\*n\] (nb max. de caractères - max. 50)<br/> *troncature possible au milieu et à droite*<br/>< *date*<br/>> *date*<br/><= *date*<br/>>= *date*<br/>*date*-*date* |
-| phrase | EXACT("..."), X("...") |
+| opérateurs<br/>booléens | `AND`<br/>`OR`<br/>`NOT` |
+| opérateurs<br/>de proximité | `NEAR/`n, `N/`n<br/>`PRE/`n, `P/`n, - |
+| troncature | `*` (0 à 5 caractères)<br/>`?` (un caractère exactement)<br/>`$`n (où *n* est le nb max. de caractères - max. 50)<br/> *troncature possible au milieu et à droite*<br/>`<` date<br/>`>` date<br/>`<=` date<br/>`>=` date<br/>date`-`date |
+| phrase | `EXACT("...")`, `X("...")` |
 | interprétation<br/>de la requête | oui (*search expansion* *) |
 | historique | oui |
 
@@ -25,6 +25,7 @@
 `*old` renvoie told, household, bold, etc. (max. 10 caractères)   
 `[*5]beat` renvoie upbeat, downbeat, offbeat, heartbeat, etc. (ajoute max. 5 caractères comme préfixe). Idem pour `$5beat`.   
 `nutr[*5]` renvoie nutrition, nutrient, nutrients, etc. (ajoute max. 5 caractères comme suffixe). Idem pour `nutr$5`.   
+
 `YR(2005-2008)` renvoie les résultats des publications de 2005 à 2008.   
 
 `EXACT("higher education")` renvoie le  résultats contenant l'expression exacte "higher education" (ni plus ni moins).   
@@ -35,4 +36,3 @@
 *Notes personnelles*
 
 ---
-

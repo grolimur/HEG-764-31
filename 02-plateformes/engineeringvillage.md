@@ -2,10 +2,10 @@
 
 | Fonctionnalités | Possibilités |
 | :-------- | :---- |
-| opérateurs<br/>booléens | AND<br/>OR<br/>NOT |
-| opérateurs<br/>de proximité | NEAR/*n*<br/>ONEAR/*n*  |
-| troncature | \* (zéro ou plus de caractères)<br/>? (un caractère)<br/>$ (variations du terme)<br/>*troncature possible à gauche, au milieu et à droite* |
-| phrase | "..."<br/>{...} |
+| opérateurs<br/>booléens | `AND`<br/>`OR`<br/>`NOT` |
+| opérateurs<br/>de proximité | `NEAR/`*n*<br/>`ONEAR/`*n*  |
+| troncature | `*` (zéro ou plus de caractères)<br/>`?` (un caractère)<br/>`$` (variations du terme)<br/>*troncature possible à gauche, au milieu et à droite* |
+| phrase | `"..."`<br/>`{...}` |
 | interprétation<br/>de la requête | oui (*autostemming*) |
 | historique | oui |
 
@@ -20,7 +20,7 @@
 `t??th` renvoie tooth, teeth, truth, tenth, etc.   
 `$management` renvoie manage, managed, manager, managers, managing, management, etc.   
 
-*source*: [Engineering Village Help](http://help.engineeringvillage.com)
+*source*: [Engineering Village: Access and Use Support Center](https://service.elsevier.com/app/home/supporthub/engineering-village/)
 
 *Notes personnelles*
 

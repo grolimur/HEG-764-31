@@ -3,10 +3,10 @@
 
 | Fonctionnalités | Possibilités |
 | :-------- | :---- |
-| opérateurs<br/>booléens | AND<br/>OR<br/>NOT |
-| opérateurs<br/>de proximité | NEAR/*n*<br/>SAME |
-| troncature | \* (zéro ou plus de caractères)<br/>? (un caractère exactement)<br/>$ (zéro ou un caractère) <br/>*troncature possible à gauche, au milieu et à droite* |
-| phrase | "..." |
+| opérateurs<br/>booléens | `AND`<br/>`OR`<br/>`NOT` |
+| opérateurs<br/>de proximité | `NEAR/`n<br/>`SAME` |
+| troncature | `*` (zéro ou plus de caractères)<br/>`?` (un caractère exactement)<br/>`$` (zéro ou un caractère) <br/>*troncature possible à gauche, au milieu et à droite* |
+| phrase | `"..."` |
 | interprétation<br/>de la requête | oui (lemmatisation et variantes UK/US) |
 | historique | oui |
 
