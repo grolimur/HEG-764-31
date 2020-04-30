@@ -10,7 +10,7 @@ Domaines: `géographie`, `science de la terre`, `écologie`, `environnement`
 | accès | limité |
 | couverture temporelle | 1974 -> |
 
-*source*: [Elsevier - GEOBASE](https://www.elsevier.com/solutions/engineering-village/content/geobase)
+*source*: [Elsevier - GEOBASE](https://www.elsevier.com/solutions/engineering-village/content/geobase) (informations datant de 2016...)
 
 *Notes personnelles*
 

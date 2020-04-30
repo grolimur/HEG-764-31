@@ -7,7 +7,7 @@ Domaine: physique des hautes énergies
 | type | **archive** ouverte |
 | producteur | CERN |
 | accès HEG | cds.cern.ch |
-| nb docs/titres | **661'000 de publications** dont <br/>419'000 d'articles <br/>151'000 livres et actes de conférences |
+| nb docs/titres | **669'000 de publications** dont <br/>428'000 d'articles et *preprints* <br/>149'000 livres et actes de conférences |
 | accès | ouvert |
 | couverture temporelle | 1958(?) |
 

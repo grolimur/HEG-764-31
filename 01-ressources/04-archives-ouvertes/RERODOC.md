@@ -6,7 +6,7 @@ Archive institutionnelle
 | type | **archive** ouverte |
 | producteur | RERO |
 | accès HEG | doc.rero.ch |
-| nb docs/titres | **74'000 publications** dont <br/>51'000 articles <br/>7'800 livres <br/>6'600 mémoires <br/> 3'600 thèses |
+| nb docs/titres | **78'000 publications** dont <br/>54'000 articles <br/>7'900 livres <br/>7'100 mémoires <br/>3'700 thèses |
 | accès | ouvert |
 | couverture temporelle | (créé en 2010?) |
 
