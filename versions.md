@@ -19,3 +19,4 @@
 | 0.3.9 RC3 | 12.05.2019 | màj illustration de taille de bases de données |
 | 0.4 | 13.05.2019 | màj ill. couverture temporelle des bases de données et infos sur les plateformes |
 | 0.4.9 RC4 | 20.04.2020 | ajout ACM Digital Library (dans ressources & plateformes) |
+| 0.4.9 RC5 | 20.04.2020 | màj des informations sur les bases de données (ressources) |

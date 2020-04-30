@@ -26,3 +26,5 @@ Depuis 2016, plusieurs *clones* d'arXiv ont fait leur apparition. Dans le domain
 À NOTER
 La couverture temporelle des archives ouvertes est à la fois moins claire et moins importante que pour les bases de données commerciales. C'est donc la date de création qui est le plus souvent indiquée.
 ```
+
+---

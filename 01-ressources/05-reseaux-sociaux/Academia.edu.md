@@ -5,12 +5,13 @@
 | type | **réseau social** (scientifique) |
 | producteur | Academia |
 | accès HEG | academia.edu |
-| nb docs/titres | **22 millions de publications**\* |
+| nb docs/titres | **25 millions de publications**\* |
 | accès | inscription gratuite |
 | couverture temporelle | ? |
 
-\* Donné à titre indicatif. Pour comparaison avec les autres réseaux sociaux, Academia.edu revendique **82 millions de membres**, dont 63 millions visitent le site chque mois.   
 *source*: [Academia.edu - About](https://www.academia.edu/about)   
+
+\* [À titre indicatif] Pour comparaison avec les autres réseaux sociaux, Academia.edu revendique **124 millions de membres**, dont 71 millions visitent le site chaque mois. Ces chiffres ne sont pas vérifiables.   
 
 *Notes personnelles*
 
