@@ -2,14 +2,18 @@
 
 | Fonctionnalités | Possibilités |
 | :-------- | :---- |
-| opérateurs<br/>booléens | AND<br/>OR<br/>AND NOT |
-| opérateurs<br/>de proximité | W/*n*<br/>PRE/*n* |
-| troncature | \* (zéro ou plusieurs caractères)<br/>? (un caractère)\* <br/>! (zéro ou plusieurs caractères) <br/> *troncature possible à gauche, au milieu et à droite* |
-| phrase | "..."<br/>{...} |
+| opérateurs<br/>booléens | `AND`<br/>`OR`<br/>`AND NOT` |
+| opérateurs<br/>de proximité | `W/`*n*<br/>`PRE/`*n* |
+| troncature | `*` (zéro ou plusieurs caractères)<br/>`?` (un caractère)\* <br/>`!` (zéro ou plusieurs caractères) <br/> *troncature possible à gauche, au milieu et à droite* |
+| phrase | `"..."`<br/>`{...}` |
 | interprétation<br/>de la requête | oui (*stemming*) |
 | historique | oui |
 
 **Exemples**   
+`sensor W/15 robot` renvoie tous les documents où `sensor` se trouve à 15 mots max. de `robot`.   
+
+`behavioral PRE/3 disturbances` renvoie tous les documents où `behavioral` précède `disturbances` de 3 mots max.
+
 `*eat` renvoie eat, heat, meat, great, treat, wheat, etc.   
 `?eat` renvoie heat, meat, etc., mais pas eat, great, treat ou wheat   
 `!eat` renvoie heat, great, treat, wheat, etc., mais pas eat   
@@ -25,4 +29,3 @@ Idem pour `"heart-attack"` et `"heart attack"`.
 *Notes personnelles*
 
 ---
-

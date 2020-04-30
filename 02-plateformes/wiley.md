@@ -2,10 +2,10 @@
 
 | Fonctionnalités | Possibilités |
 | :-------- | :---- |
-| opérateurs<br/>booléens | AND, &, +<br/>OR<br/>NOT, - |
+| opérateurs<br/>booléens | `AND`, `&`, `+`<br/>`OR`<br/>`NOT`, `-` |
 | opérateurs<br/>de proximité | - |
-| troncature | \* (zéro ou plus de caractères)<br/>? (un caractère exactement)<br/>*troncature possible au milieu et à droite* |
-| phrase | "..." |
+| troncature | `*` (zéro ou plus de caractères)<br/>`?` (un caractère exactement)<br/>*troncature possible au milieu et à droite* |
+| phrase | `"..."` |
 | interprétation<br/>de la requête | oui |
 | historique | oui |
 

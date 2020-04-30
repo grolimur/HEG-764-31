@@ -2,10 +2,10 @@
 
 | Fonctionnalités | Possibilités |
 | :-------- | :---- |
-| opérateurs<br/>booléens | AND (par défaut)<br/>OR<br/>NOT |
+| opérateurs<br/>booléens | `AND`<br/>`OR`<br/>`NOT` |
 | opérateurs<br/>de proximité | - |
-| troncature | \* (zéro ou plusieurs caractères)<br/>? (un caractère)<br/>*troncature* ***impossible*** *à gauche ou dans une phrase* |
-| phrase | "..." |
+| troncature | `*` (zéro ou plusieurs caractères)<br/>`?` (un caractère)<br/>*troncature* ***impossible*** *à gauche ou dans une phrase* |
+| phrase | `"..."` |
 | interprétation<br/>de la requête | oui (*stemming* et variantes UK/US) |
 | historique | non |
 
@@ -16,9 +16,8 @@
 
 `"computer"` renvoie computer, computerize, computerized, etc. (*stemming*)
 
-*source*: [Browse Digital Collection](https://dl.acm.org/browse/) & [Advanced Search](https://dl.acm.org/search/advanced)
+*source*: [Advanced Search](https://dl.acm.org/search/advanced)
 
 *Notes personnelles*
 
 ---
-
