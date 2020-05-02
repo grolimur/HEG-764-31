@@ -11,7 +11,7 @@
 | biorXiv | (*archive thématique*) |
 | CERN Document Server | CERN |
 | Infoscience | EPFL |
-| Publications & Recherches | Université de Neuchâtel |
+| Libra | Université de Neuchâtel |
 | RERODOC | RERO |
 | Serval | Université de Lausanne |
 
