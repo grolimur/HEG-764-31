@@ -29,7 +29,7 @@
 	* [bioRxiv](01-ressources/04-archives-ouvertes/bioRxiv.md)
 	* [CERN Document Server](01-ressources/04-archives-ouvertes/CDS.md)
 	* [Infoscience](01-ressources/04-archives-ouvertes/Infoscience.md)
-	* [Publications & Recherches](01-ressources/04-archives-ouvertes/PR-unine.md)
+	* [Libra](01-ressources/04-archives-ouvertes/libra.md)
 	* [RERO DOC](01-ressources/04-archives-ouvertes/RERODOC.md)
 	* [Serval](01-ressources/04-archives-ouvertes/Serval.md)
 	* [Réseaux sociaux scientifiques](01-ressources/05-reseaux-sociaux/README.md)
