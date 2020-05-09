@@ -21,3 +21,4 @@
 | 0.4.9 RC4 | 20.04.2020 | ajout ACM Digital Library (dans ressources & plateformes) |
 | 0.4.9 RC5 | 30.04.2020 | màj des informations sur les ressources |
 | 0.4.9 RC6 | 30.04.2020 | màj des informations sur les plateformes |
+| 0.5 | 9.05.2020 | màj des infographies |
