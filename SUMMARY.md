@@ -26,7 +26,7 @@
 	* [Archive ouverte HAL](01-ressources/04-archives-ouvertes/HAL.md)
 	* [ArODES](01-ressources/04-archives-ouvertes/ArODES.md)
 	* [arXiv](01-ressources/04-archives-ouvertes/arXiv.md)
-	* [bioRxiv](01-ressources/04-archives-ouvertes/bioRxiv.md)
+	* [bioRxiv](01-ressources/04-archives-ouvertes/biorXiv.md)
 	* [CERN Document Server](01-ressources/04-archives-ouvertes/CDS.md)
 	* [Infoscience](01-ressources/04-archives-ouvertes/Infoscience.md)
 	* [Libra](01-ressources/04-archives-ouvertes/libra.md)
