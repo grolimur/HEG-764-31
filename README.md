@@ -30,9 +30,8 @@ Raphaël Grolimund [raphael.grolimund@hesge.ch](mailto:raphael.grolimund@hesge.c
 
 
 ## Version `0.5.1`
-La dernière version de ce document est disponible sur [https://legacy.gitbook.com/book/grolimur/heg-764-31](https://legacy.gitbook.com/book/grolimur/heg-764-31).   
-Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub et Mobi.   
- 
+La dernière version de ce document est disponible sur [https://raphael-grolimund.gitbook.io/heg-764-31/](https://raphael-grolimund.gitbook.io/heg-764-31/).   
+
 L'historique complet des versions est disponible à la [fin du document](versions.md).
 
 ## Licence `CC BY`

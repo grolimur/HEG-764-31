@@ -24,4 +24,4 @@
 | 0.4.9 RC7 | 2.05.2020 | màj nom archive ouverte Uni NE |
 | 0.4.9 RC8 | 2.05.2020 | correction CAplus |
 | 0.5 | 9.05.2020 | màj des infographies |
-| 0.5.1 | 10.05.2020 | comparatif plateformes complété |
+| 0.5.1 | 10.05.2020 | comparatif plateformes complété + modif. lien dans README |
