@@ -40,7 +40,7 @@
 	* [Dryad](01-ressources/06-donnees-de-recherche/Dryad.md)
 	* [Figshare](01-ressources/06-donnees-de-recherche/Figshare.md)
 	* [Zenodo](01-ressources/06-donnees-de-recherche/Zenodo.md)
-* [Comparaison](01-ressources/comparaison-ressources.md)
+	* [Comparaison](01-ressources/comparaison-ressources.md)
 
 ## Plateformes
 
@@ -55,7 +55,7 @@
     * [SpringerLink](02-plateformes/springerlink.md)
     * [Web of Science](02-plateformes/webofscience.md)
     * [Wiley Online Library](02-plateformes/wiley.md)
-* [Tableau comparatif](02-plateformes/comparaison-plateformes.md)
+    * [Tableau comparatif](02-plateformes/comparaison-plateformes.md)
 
 ## Annexe
 
