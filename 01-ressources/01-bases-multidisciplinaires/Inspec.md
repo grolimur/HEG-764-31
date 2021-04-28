@@ -5,7 +5,7 @@
 | type | base de données **bibliographique** |
 | producteur | The Institution of Engineering and Technology |
 | accès HEG | Web of Science |
-| nb docs/titres | **16.5 millions de publications** dont <br/>11 millions d'articles <br/>4.9 mllions d'articles de conférences <br/> |
+| nb docs/titres | **16.5 millions de publications** dont <br/>11 millions d'articles de revues <br/>4.9 mllions d'articles de conférences <br/> |
 | accès | limité |
 | couverture temporelle | 1969 -> |
 

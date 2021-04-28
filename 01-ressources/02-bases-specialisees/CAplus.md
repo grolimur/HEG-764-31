@@ -6,7 +6,7 @@ Domaines: `chimie`, `pharmacologie`
 | type | base de données **bibliographique** |
 | producteur | American Chemical Society |
 | accès HEG | ⛔️ *pas d'accès* |
-| nb docs/titres | **51 millions d'articles** provenant de <br/>50'000 journaux <br/>brevets <br/>rapports techniques <br/>livres <br/>thèses |
+| nb docs/titres | **54 millions d'articles** provenant de <br/>50'000 revues scientifiques <br/>brevets <br/>rapports techniques <br/>livres <br/>thèses |
 | accès | limité |
 | couverture temporelle | 1907 -> |
 

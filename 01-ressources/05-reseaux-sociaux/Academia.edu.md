@@ -11,7 +11,7 @@
 
 *source*: [Academia.edu - About](https://www.academia.edu/about)   
 
-\* [À titre indicatif] Pour comparaison avec les autres réseaux sociaux, Academia.edu revendique **124 millions de membres**, dont 71 millions visitent le site chaque mois. Ces chiffres ne sont pas vérifiables.   
+\* [À titre indicatif] Pour comparaison avec les autres réseaux sociaux, Academia.edu revendique **156 millions de membres**, dont 31 millions visitent le site chaque mois. Attention, ces chiffres ne sont pas vérifiables !   
 
 *Notes personnelles*
 

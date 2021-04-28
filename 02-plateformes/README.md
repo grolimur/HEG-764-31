@@ -5,7 +5,6 @@ Voici la liste des plateformes sur lesquels vous êtes susceptibles d'interroger
 | plateforme |
 | :-- |
 | ACM Digital Library |
-| Engineering Village [pas d'accès à la HEG] |
 | IEEE Xplore |
 | ProQuest |
 | PubMed |

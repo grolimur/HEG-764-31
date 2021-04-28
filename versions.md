@@ -25,3 +25,4 @@
 | 0.4.9 RC8 | 2.05.2020 | correction CAplus |
 | 0.5 | 9.05.2020 | màj des infographies |
 | 0.5.1 | 10.05.2020 | comparatif plateformes complété + modif. lien dans README |
+| 0.5.9 RC | 28.04.2021 | màj bases de données + plateformes & suppression données de recherche + tableau comparatif |

@@ -4,7 +4,7 @@
 | :-------- | :---- |
 | opérateurs<br/>booléens | `AND`<br/>`OR`<br/>`NOT` |
 | opérateurs<br/>de proximité | `NEAR/`n, `N/`n<br/>`PRE/`n, `P/`n, - |
-| troncature | `*` (0 à 5 caractères)<br/>`?` (un caractère exactement)<br/>`$`n (où *n* est le nb max. de caractères - max. 50)<br/> *troncature possible au milieu et à droite*<br/>`<` date<br/>`>` date<br/>`<=` date<br/>`>=` date<br/>date`-`date |
+| troncature | `*` (0 à 5 caractères)<br/>`?` (un caractère exactement)<br/>`[*n]` (où *n* est le nb max. de caractères - max. 50)<br/> *troncature possible au milieu et à droite*<br/>`<` date<br/>`>` date<br/>`<=` date<br/>`>=` date<br/>date`-`date |
 | phrase | `EXACT("...")`, `X("...")` |
 | interprétation<br/>de la requête | oui (*search expansion* *) |
 | historique | oui |
@@ -17,14 +17,12 @@
 `nursing PRE/3 education` renvoie les résultats où "nursing" précède "education" de 3 mots max. Idem pour `nursing P/3 education`.   
 `enseignement-infirmier` (**avec un tiret**) correspond à `enseignement PRE/0 infirmier` ou `enseignement P/0 infirmier`.   
 
-`nurse?` renvoie nurses, nursed, etc.   
-`sm?th` renvoie smith et smyth.   
+`nurse?` renvoie nurses, nursed, etc., alors que `sm?th` renvoie smith et smyth.   
 `ad???` renvoie added, adult, adopt, etc.   
-`nurse*` renvoie nurse, nurses, nursed, etc.   
-`colo*r` renvoie colour et color.   
+`nurse*` renvoie nurse, nurses, nursed, etc., alors que `colo*r` renvoie colour et color.   
 `*old` renvoie told, household, bold, etc. (max. 10 caractères)   
-`[*5]beat` renvoie upbeat, downbeat, offbeat, heartbeat, etc. (ajoute max. 5 caractères comme préfixe). Idem pour `$5beat`.   
-`nutr[*5]` renvoie nutrition, nutrient, nutrients, etc. (ajoute max. 5 caractères comme suffixe). Idem pour `nutr$5`.   
+`[*5]beat` renvoie upbeat, downbeat, offbeat, heartbeat, etc. (ajoute max. 5 caractères comme préfixe).
+`nutr[*5]` renvoie nutrition, nutrient, nutrients, etc. (ajoute max. 5 caractères comme suffixe).   
 
 `YR(2005-2008)` renvoie les résultats des publications de 2005 à 2008.   
 

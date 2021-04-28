@@ -12,7 +12,7 @@
 **Exemples**   
 `information NEAR/4 systems` renvoie les résultats où "information" se trouve à max. 4 mots de "system" (avant ou après).   
 `system NEAR testing` renvoie les résultats où "system" se trouve à max. 10 mots de "testing" (valeur par défaut).   
-Idem pour `system ONEAR testing`.   
+`system ONEAR testing` renvoie les résultats où "system" précède "testing" de max. 10 mots (valeur par défaut).   
 `system ONEAR/2 testing` renvoie les résultats où "system" précède "testing" de 2 mots max.   
 
 `hea*` renvoie head, heats, health, heated, heating, etc.   
