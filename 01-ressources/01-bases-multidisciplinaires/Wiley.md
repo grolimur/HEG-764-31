@@ -11,6 +11,8 @@
 
 *source*: [Wiley Journals](https://onlinelibrary.wiley.com/library-info/products/journals) & [Wiley Books](https://onlinelibrary.wiley.com/library-info/products/books)   
 
+---
+
 *Notes personnelles*
 
 ---

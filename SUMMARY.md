@@ -22,7 +22,7 @@
 	* [CAplus](01-ressources/02-bases-specialisees/CAplus.md)
 	* [Moteurs de recherches](01-ressources/03-moteurs-de-recherche/README.md)
 	* [Google Scholar](01-ressources/03-moteurs-de-recherche/google-scholar.md)
-	* [BASE](01-ressources/01-ressources/03-moteurs-de-recherche/BASE.md)
+	* [BASE](01-ressources/03-moteurs-de-recherche/BASE.md)
 	* [Archives ouvertes](01-ressources/04-archives-ouvertes/README.md)
 	* [Archives institutionnelles](01-ressources/04-archives-ouvertes/archives-institutionnelles.md)
 	* [Archives thématiques](01-ressources/04-archives-ouvertes/archives-thematiques.md)

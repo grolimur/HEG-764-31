@@ -29,7 +29,7 @@ Objectifs spécifiques:
 Raphaël Grolimund [raphael.grolimund@hesge.ch](mailto:raphael.grolimund@hesge.ch)   
 
 
-## Version `0.5.9 RC2`
+## Version `0.5.9 RC3`
 La dernière version de ce document est disponible sur [https://raphael-grolimund.gitbook.io/heg-764-31/](https://raphael-grolimund.gitbook.io/heg-764-31/).   
 
 L'historique complet des versions est disponible à la [fin du document](versions.md).

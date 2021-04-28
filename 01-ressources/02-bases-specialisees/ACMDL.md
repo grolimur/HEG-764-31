@@ -12,6 +12,8 @@ Domaines: `informatique`
 
 *source*: [About ACM DL](https://dl.acm.org/about) & [Browse Digital Collection](https://dl.acm.org/browse/)
 
+---
+
 *Notes personnelles*
 
 ---

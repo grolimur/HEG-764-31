@@ -11,6 +11,8 @@
 
 *source*: [Scopus - Content Coverage Guide](https://www.elsevier.com/__data/assets/pdf_file/0007/69451/Scopus_ContentCoverage_Guide_WEB.pdf)   
 
+---
+
 *Notes personnelles*
 
 ---

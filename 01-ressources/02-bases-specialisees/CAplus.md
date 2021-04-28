@@ -12,6 +12,8 @@ Domaines: `chimie`, `pharmacologie`
 
 *source*: [References - CAplus](https://www.cas.org/support/documentation/references)   
 
+---
+
 *Notes personnelles*
 
 ---

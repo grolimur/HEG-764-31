@@ -12,6 +12,8 @@ Domaines: `géographie`, `science de la terre`, `écologie`, `environnement`
 
 *source*: [Elsevier - GEOBASE](https://www.elsevier.com/solutions/engineering-village/content/geobase) (informations datant de 2016...)
 
+---
+
 *Notes personnelles*
 
 ---

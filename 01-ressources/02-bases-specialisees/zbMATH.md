@@ -12,6 +12,8 @@ Domaines: `mathématiques`, `probabilités`, `statistiques`
 
 *source*: [About zbMATH - Facts & Figures](https://zbmath.org/about/#id_4)
 
+---
+
 *Notes personnelles*
 
 ---

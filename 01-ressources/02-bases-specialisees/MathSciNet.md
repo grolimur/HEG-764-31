@@ -12,6 +12,8 @@ Domaines: `mathématiques`, `probabilités`, `statistiques`
 
 *source*: [MathSciNet - About](http://www.ams.org/mathscinet/help/about.html?version=2)
 
+---
+
 *Notes personnelles*
 
 ---

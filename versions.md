@@ -27,3 +27,4 @@
 | 0.5.1 | 10.05.2020 | comparatif plateformes complété + modif. lien dans README |
 | 0.5.9 RC | 28.04.2021 | màj bases de données + plateformes & suppression données de recherche + tableau comparatif |
 | 0.5.9 RC2 | 28.04.2021 | correction liens et noms de fichiers |
+| 0.5.9 RC3 | 28.04.2021 | corrections dans le sommaire et la mise en page |

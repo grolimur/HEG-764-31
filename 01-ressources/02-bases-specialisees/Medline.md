@@ -14,6 +14,8 @@ Plus d'infos dans la [*MEDLINE®: Description of the Database*](https://www.nlm.
 Près de 90% du contenu de Pubmed provient de Medline. Le reste provient d'autres sources.   
 \* **PubMed** est une plateforme ouverte à tous. Par contre, l'interrogation depuis d'autres plateformes (Web of Science p. ex.) peut nécessiter un abonnement à la plateforme en question.
 
+---
+
 *Notes personnelles*
 
 ---

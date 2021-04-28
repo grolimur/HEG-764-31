@@ -17,6 +17,8 @@ Parmi les **offres illégales** pour accéder à la littérature scientifiques, 
 
 \** Il existe aussi des outils de recherche qui ne nécessitent pas d'avoir un compte sur Twitter.
 
+---
+
 *Notes personnelles*
 
 ---

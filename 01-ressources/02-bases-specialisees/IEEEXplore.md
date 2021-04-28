@@ -12,6 +12,8 @@ Domaines: `électronique`, `informatique`
 
 *source*: [About IEEE Xplore](http://ieeexplore.ieee.org/Xplorehelp/#/overview-of-ieee-xplore/about-ieee-xplore) & [IEEE Xplore Digital Library](https://ieeexplore.ieee.org/Xplore/home.jsp)
 
+---
+
 *Notes personnelles*
 
 ---

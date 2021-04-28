@@ -13,6 +13,8 @@
 
 \* Créé en 2008, ResearchGate revendique **20 millions de membres**. Ce chiffre est invérifiable et ne donne pas le nombre de documents référencés ou mis en ligne, mais cela donne un point de comparaison avec les autres réseaux sociaux.   
 
+---
+
 *Notes personnelles*
 
 ---

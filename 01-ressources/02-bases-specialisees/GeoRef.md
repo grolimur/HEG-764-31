@@ -12,6 +12,8 @@ Domaines: `géographie`, `science de la terre`, `géologie`
 
 *source*: [Elsevier - GeoRef](https://www.elsevier.com/solutions/engineering-village/content/georef) (informations datant de 2016...)
 
+---
+
 *Notes personnelles*
 
 ---
