@@ -29,6 +29,6 @@
 
 Notez que l'aide de la plateforme Web of Science est adaptée à la base de données consultée. Les informations données ci-dessus correspondent à **Web of Science Core Collection**, la base de données native de la plateforme.
 
-*Notes personnelles*
-
 ---
+
+*Notes personnelles*

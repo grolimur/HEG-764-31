@@ -31,6 +31,6 @@
 
 *source*: [ProQuest Help - Search Tips](http://search.proquest.com/help/academic/webframe.html?Search_Tips.html)
 
-*Notes personnelles*
-
 ---
+
+*Notes personnelles*

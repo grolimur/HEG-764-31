@@ -16,6 +16,6 @@
 
 *source*: [Help - PubMed](https://pubmed.ncbi.nlm.nih.gov/help/)
 
-*Notes personnelles*
-
 ---
+
+*Notes personnelles*

@@ -20,7 +20,6 @@
 
 *source*: [SpringerLink Search Tips](https://link.springer.com/searchhelp)
 
+---
 
 *Notes personnelles*
-
----

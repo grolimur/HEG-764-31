@@ -21,7 +21,6 @@ Les tableaux de présentation des ressources contiennent une rubrique **type** q
 
 **archive** ouverte   
 base de données **bibliographique**   
-dépôt de **données de recherche**   
 site d'**éditeur**   
 **moteur** de recherche   
 **réseau social** (scientifique)   

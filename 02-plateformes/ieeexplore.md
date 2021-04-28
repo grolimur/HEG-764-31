@@ -21,6 +21,6 @@
 
 *source*: [IEEE Xplore Search Tips](http://ieeexplore.ieee.org/Xplorehelp/#/searching-ieee-xplore/search-tips) & [IEEE Xplore Command Search](https://ieeexplore.ieee.org/Xplorehelp/#/searching-ieee-xplore/command-search)
 
-*Notes personnelles*
-
 ---
+
+*Notes personnelles*

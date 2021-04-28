@@ -30,6 +30,6 @@ Remarques:
 
 *source*: [How do I use the advanced search? - ScienceDirect Support Center](https://service.elsevier.com/app/answers/detail/a_id/25974/supporthub/sciencedirect/)
 
-*Notes personnelles*
-
 ---
+
+*Notes personnelles*

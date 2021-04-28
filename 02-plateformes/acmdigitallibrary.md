@@ -18,6 +18,6 @@
 
 *source*: [Advanced Search](https://dl.acm.org/search/advanced)
 
-*Notes personnelles*
-
 ---
+
+*Notes personnelles*
