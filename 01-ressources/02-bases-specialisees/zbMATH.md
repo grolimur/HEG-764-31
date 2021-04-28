@@ -11,9 +11,3 @@ Domaines: `mathématiques`, `probabilités`, `statistiques`
 | couverture temporelle | 1826 -> |
 
 *source*: [About zbMATH - Facts & Figures](https://zbmath.org/about/#id_4)
-
----
-
-*Notes personnelles*
-
----

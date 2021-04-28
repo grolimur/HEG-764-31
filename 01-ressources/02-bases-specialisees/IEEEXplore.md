@@ -11,9 +11,3 @@ Domaines: `électronique`, `informatique`
 | couverture temporelle | 1988 -> (toutes les publications d'IEEE) <br/>1872 -> (partiel) |
 
 *source*: [About IEEE Xplore](http://ieeexplore.ieee.org/Xplorehelp/#/overview-of-ieee-xplore/about-ieee-xplore) & [IEEE Xplore Digital Library](https://ieeexplore.ieee.org/Xplore/home.jsp)
-
----
-
-*Notes personnelles*
-
----

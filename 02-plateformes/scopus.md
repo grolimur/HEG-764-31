@@ -25,7 +25,3 @@ Idem pour `"heart-attack"` et `"heart attack"`.
 `"criminal* insan*"` renvoie criminally insane, criminal insanity, etc.
 
 *source*: [Scopus: Access and use Support Center - Document search tips](https://service.elsevier.com/app/answers/detail/a_id/11213/supporthub/scopus/#tips)
-
----
-
-*Notes personnelles*

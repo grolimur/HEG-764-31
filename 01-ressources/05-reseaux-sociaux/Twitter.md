@@ -16,9 +16,3 @@ Parmi les **offres illégales** pour accéder à la littérature scientifiques, 
 \* De part la nature et l'"utilité" de Twitter, on ne peut pas formuler un nombre de documents référencés ou disponibles, pas plus qu'on ne peut donner une couverture temporelle. À titre indicatif et pour comparaison avec les autres plateformes, Twitter revendique **330 millions d'utilisateurs actifs par mois** (chiffres 2019).   
 
 \** Il existe aussi des outils de recherche qui ne nécessitent pas d'avoir un compte sur Twitter.
-
----
-
-*Notes personnelles*
-
----

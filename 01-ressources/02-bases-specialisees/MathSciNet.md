@@ -11,9 +11,3 @@ Domaines: `mathématiques`, `probabilités`, `statistiques`
 | couverture temporelle | env. 1800 -> |
 
 *source*: [MathSciNet - About](http://www.ams.org/mathscinet/help/about.html?version=2)
-
----
-
-*Notes personnelles*
-
----

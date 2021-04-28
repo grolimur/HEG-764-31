@@ -11,9 +11,3 @@
 
 *source*: [Elsevier - Ei Compendex](https://www.elsevier.com/solutions/engineering-village/content/compendex) (informations datant de fin 2016...)   
 Compendex est une base de données multidisciplinaire, mais ne couvrent que les domaines liés à l'ingénierie (**physique, bioingénierie, technologie, matériaux, électronique, mécanique**, etc.).   
-
----
-
-*Notes personnelles*
-
----

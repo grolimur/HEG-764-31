@@ -10,9 +10,3 @@
 | couverture temporelle | 1900 -> |
 
 *source*: [Web of Science Core Collection - Clarivate](https://clarivate.com/products/web-of-science/web-science-form/web-science-core-collection/)   
-
----
-
-*Notes personnelles*
-
----

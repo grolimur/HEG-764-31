@@ -19,7 +19,3 @@
 `hea?` renvoie head, heat, heal, etc.   
 
 *source*: [SpringerLink Search Tips](https://link.springer.com/searchhelp)
-
----
-
-*Notes personnelles*

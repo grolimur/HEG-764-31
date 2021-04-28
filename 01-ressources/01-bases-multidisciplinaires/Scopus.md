@@ -10,9 +10,3 @@
 | couverture temporelle | 1970 -> (62.4 mios avec les citations)<br/>1788-1969 (6.6 mios sans les citations) |
 
 *source*: [Scopus - Content Coverage Guide](https://www.elsevier.com/__data/assets/pdf_file/0007/69451/Scopus_ContentCoverage_Guide_WEB.pdf)   
-
----
-
-*Notes personnelles*
-
----

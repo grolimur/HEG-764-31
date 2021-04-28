@@ -28,7 +28,3 @@ SC: Scopus
 SL: SpringerLink   
 WOS: Web of Science   
 WIL: Wiley Online Library
-
----
-
-*Notes personnelles*

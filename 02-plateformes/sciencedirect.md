@@ -29,7 +29,3 @@ Remarques:
 3. `coronary W/2 circadian W/5 rhythm` va en fait chercher `coronary W/5 circadian W/5 rhythm` , car seule la dernière valeur de *n* est prise en compte.   
 
 *source*: [How do I use the advanced search? - ScienceDirect Support Center](https://service.elsevier.com/app/answers/detail/a_id/25974/supporthub/sciencedirect/)
-
----
-
-*Notes personnelles*

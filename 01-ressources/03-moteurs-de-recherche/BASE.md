@@ -14,9 +14,3 @@
 | couverture temporelle | 1970- |
 
 BASE indexe toutes les archives [institutionnels](../04-archives-ouvertes/archives-institutionnelles.md) ou [thématiques](../04-archives-ouvertes/archives-thematiques.md) présentés dans ce document - à l'exception de Libra (Université de Neuchâtel) et BioRxiv - sans s'y limiter.
-
----
-
-*Notes personnelles*
-
----

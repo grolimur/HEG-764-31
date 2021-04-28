@@ -11,9 +11,3 @@ Domaines: `géographie`, `science de la terre`, `géologie`
 | couverture temporelle | 1666 -> (Am. du nord) <br/>1933 -> (Europe) |
 
 *source*: [Elsevier - GeoRef](https://www.elsevier.com/solutions/engineering-village/content/georef) (informations datant de 2016...)
-
----
-
-*Notes personnelles*
-
----

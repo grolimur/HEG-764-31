@@ -30,7 +30,3 @@
 `SU.EXACT("higher education")` renvoie les résultats dont le sujet est "higher education" en exculant p. ex. "higher education funding".   
 
 *source*: [ProQuest Help - Search Tips](http://search.proquest.com/help/academic/webframe.html?Search_Tips.html)
-
----
-
-*Notes personnelles*

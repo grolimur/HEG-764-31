@@ -17,7 +17,3 @@
 `"computer"` renvoie computer, computerize, computerized, etc. (*stemming*)
 
 *source*: [Advanced Search](https://dl.acm.org/search/advanced)
-
----
-
-*Notes personnelles*

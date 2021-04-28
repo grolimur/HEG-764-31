@@ -10,9 +10,3 @@
 | couverture temporelle | 1815 -> |
 
 *source*: [SpringerLink](https://link.springer.com/search?query=)   
-
----
-
-*Notes personnelles*
-
----

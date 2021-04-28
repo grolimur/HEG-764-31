@@ -11,9 +11,3 @@ Domaines: `informatique`
 | couverture temporelle | 1951 -> (*fulltexts* principalement publiés par l'ACM) <br/>1908 -> (références bibliographiques) |
 
 *source*: [About ACM DL](https://dl.acm.org/about) & [Browse Digital Collection](https://dl.acm.org/browse/)
-
----
-
-*Notes personnelles*
-
----

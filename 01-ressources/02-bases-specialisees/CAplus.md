@@ -11,9 +11,3 @@ Domaines: `chimie`, `pharmacologie`
 | couverture temporelle | 1907 -> |
 
 *source*: [References - CAplus](https://www.cas.org/support/documentation/references)   
-
----
-
-*Notes personnelles*
-
----

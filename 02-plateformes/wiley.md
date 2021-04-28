@@ -19,8 +19,3 @@
 La troncature ne peut pas être utilisée au début d'un mot-clé (ex. \*tension) ou dans une expression exacte (ex. "tobacco smok\*").
 
 *source*: [Advanced Search - Wiley Online Library](https://onlinelibrary.wiley.com/search/advanced)
-
----
-
-*Notes personnelles*
-

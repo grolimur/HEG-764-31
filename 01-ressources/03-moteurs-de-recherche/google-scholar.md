@@ -19,9 +19,3 @@ Google Scholar n'est pas le seul moteur de recherche académique, mais c'est de 
 [CiteSeerX](http://citeseerx.ist.psu.edu)   
 [Wolfram Alpha](https://www.wolframalpha.com)    
 Un temps, Elsevier a proposé le sien ([Scirus](https://web.archive.org/web/20180809192123/sciencedirect.com/scirus/)) mais a finalement abandonné.   
-
----
-
-*Notes personnelles*
-
----

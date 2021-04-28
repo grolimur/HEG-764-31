@@ -15,7 +15,3 @@
 `flavor*` renvoie flavor, flavored, flavorful, flavoring, etc.   
 
 *source*: [Help - PubMed](https://pubmed.ncbi.nlm.nih.gov/help/)
-
----
-
-*Notes personnelles*

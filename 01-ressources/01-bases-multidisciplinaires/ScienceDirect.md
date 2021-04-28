@@ -10,9 +10,3 @@
 | couverture temporelle | 1823 -> |
 
 *source*: [Content & features | ScienceDirect](https://www.elsevier.com/solutions/sciencedirect/content)   
-
----
-
-*Notes personnelles*
-
----
