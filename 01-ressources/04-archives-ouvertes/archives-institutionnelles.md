@@ -6,15 +6,17 @@
 | :-- | :-- | --: |
 | [Archive ouverte UNIGE](https://archive-ouverte.unige.ch) | Université de Genève | 83'000 publications |
 | [ArODES](http://arodes.hes-so.ch/)  | HES-SO | 6'500 publications |
-| [CERN Document Server](https://cds.cern.ch/) ** | CERN | 687'000 publications |
+| [CERN Document Server](https://cds.cern.ch/) * | CERN | 687'000 publications |
 | [Infoscience](https://infoscience.epfl.ch/) | EPFL | 157'000 publications |
-| [Libra](https://libra.unine.ch) * | Université de Neuchâtel | 18'000 publications |
+| [Libra](https://libra.unine.ch) ** | Université de Neuchâtel | 18'000 publications |
 | [RERO DOC](https://doc.rero.ch/) *** | RERO | 80'000 publications |
 | [Serval](https://serval.unil.ch/search)   | Université de Lausanne | 170'000 publications |
 | [Archive ouverte HAL](https://hal.archives-ouvertes.fr) | France | 2'500'000 publications |
 
-\* pas indexé dans [BASE](../03-moteurs-de-recherche/BASE.md)   
-\** Les recherches menées au CERN ne concerne qu'un domaine bien précis de la physique, la physique des hautes énergies. Par contre, comme le CERN fournit la très grande majorité des publications dans ce domaine, le CERN Document Server est une base de données importante.   
+\* Les recherches menées au CERN ne concerne qu'un domaine bien précis de la physique, la physique des hautes énergies. Par contre, comme le CERN fournit la très grande majorité des publications dans ce domaine, le CERN Document Server est une base de données importante.   
+
+\** pas indexé dans [BASE](../03-moteurs-de-recherche/BASE.md)   
+
 \*** RERO DOC inclut les publications de l'Université de Fribourg.
 
 ## Les serveurs de *preprints* fleurissent...

@@ -14,6 +14,6 @@
 `comput?` renvoie computer ou computed   
 `colo?r` renvoie color et colour   
 
-`"computer"` renvoie computer, computerize, computerized, etc. (*stemming*)
+`"computer"` renvoie computer, computerize, computerized, etc. (*stemming*)   
 
 *source*: [Advanced Search](https://dl.acm.org/search/advanced)
