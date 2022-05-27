@@ -8,7 +8,7 @@
 | :-------- | :---- |
 | type | **moteur** de recherche |
 | producteur | Google |
-| accès HEG | scholar.google.com |
+| accès HEG | [https://scholar.google.com](https://scholar.google.com) |
 | nb docs/titres | ? |
 | accès | ouvert |
 | couverture temporelle | ? |

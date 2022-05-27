@@ -23,4 +23,4 @@ Les tableaux de présentation des ressources contiennent une rubrique **type** q
 base de données **bibliographique**   
 site d'**éditeur**   
 **moteur** de recherche   
-**réseau social** (scientifique)   
+"**réseau social**" (scientifique)... catégorie à prendre au sens très large du terme   

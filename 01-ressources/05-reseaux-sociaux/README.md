@@ -8,4 +8,4 @@ Voici les deux principaux **réseaux sociaux** scientifiques, auxquels s'ajoute 
 | ResearchGate |
 | Twitter |
 
-Twitter n'est ni à proprement parler un réseau social ni scientifique, mais il est de plus en plus utilisé par les scientifiques pour communiquer sur leurs publications.
+Twitter n'est ni à proprement parler un réseau social ni scientifique, mais il est de plus en plus utilisé par les scientifiques pour communiquer au sujet de leurs publications.

@@ -19,7 +19,7 @@
 	* [MathSciNet](01-ressources/02-bases-specialisees/MathSciNet.md)
 	* [zbMATH](01-ressources/02-bases-specialisees/zbMATH.md)
 	* [Medline](01-ressources/02-bases-specialisees/Medline.md)
-	* [CAplus](01-ressources/02-bases-specialisees/CAplus.md)
+	* [CAS References](01-ressources/02-bases-specialisees/CAS-references.md)
 	* [Moteurs de recherches](01-ressources/03-moteurs-de-recherche/README.md)
 	* [Google Scholar](01-ressources/03-moteurs-de-recherche/google-scholar.md)
 	* [BASE](01-ressources/03-moteurs-de-recherche/BASE.md)

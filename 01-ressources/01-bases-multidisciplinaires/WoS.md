@@ -3,8 +3,8 @@
 | Rubriques | Infos |
 | :-------- | :---- |
 | type | base de données **bibliographique** |
-| producteur | Clarivate Analytics |
-| accès HEG | [https://webofknowledge.com/WOS](https://webofknowledge.com/WOS) |
+| producteur | [Clarivate Analytics](https://fr.wikipedia.org/wiki/Clarivate_Analytics) |
+| accès HEG | [https://webofscience.com](https://webofscience.com) |
 | nb docs/titres | **75 millions\* de publications** dont<br/>21'000 journaux <br/>actes de conférences <br/>des livres |
 | accès | limité |
 | couverture temporelle | 1900 -> |

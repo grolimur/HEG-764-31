@@ -1,5 +1,4 @@
 # Web of Science
-(anciennement Web of Knowledge)
 
 | Fonctionnalités | Possibilités |
 | :-------- | :---- |
@@ -25,6 +24,8 @@
 `grain$` renvoie grain et grains.   
 `organi?ation*` renvoie organisation, organisations, organisational, organization, organizations, organizational, etc.   
 
-*source*: [Web of Science Core Collection Help](http://images.webofknowledge.com/WOKRS524B8/help/WOS/hp_search.html)
+*sources*:   
+[Web of Science Core Collection Help](http://images.webofknowledge.com/WOKRS524B8/help/WOS/hp_search.html) (ancienne version, plus facile à utiliser)   
+[Search Help](http://webofscience.help.clarivate.com/en-us/Content/advanced-search.html) (nouvelle version, plus... récente)   
 
 Notez que l'aide de la plateforme Web of Science est adaptée à la base de données consultée. Les informations données ci-dessus correspondent à **Web of Science Core Collection**, la base de données native de la plateforme.

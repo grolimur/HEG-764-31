@@ -29,3 +29,5 @@
 | 0.5.9 RC2 | 28.04.2021 | correction liens et noms de fichiers |
 | 0.5.9 RC3 | 28.04.2021 | corrections dans le sommaire et la mise en page |
 | 0.5.9 RC4 | 28.04.2021 | suppression des mentions "notes personnelles" + corrections coquilles |
+| 0.6 | 17.05.2021 | publication de la version 2021 et dernières corr. mineures |
+| 0.7 | 26.05.2021 | publication de la version 2022 |

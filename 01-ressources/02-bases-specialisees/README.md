@@ -5,9 +5,9 @@
 | bases de données spécialisées |
 | :-- |
 | ✅ ACM Digital Library |
-| ✅ Chemical Abstract |
-| ⛔️ GEOBASE |
-| ⛔️ GeoRef |
+| ⛔️ CAS References (pas d'accès à la HEG) |
+| ⛔️ GEOBASE (pas d'accès à la HEG) |
+| ⛔️ GeoRef (pas d'accès à la HEG) |
 | ✅ IEEE Xplore |
 | ✅ MathSciNet |
 | ✅ Medline |
