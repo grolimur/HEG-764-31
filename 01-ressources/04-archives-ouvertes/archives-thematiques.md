@@ -1,6 +1,6 @@
 # ARCHIVES THÉMATIQUES
 
-*Voici quelques **archives thématiques** pertinentes en Suisse romande*   
+*Voici quelques* ***archives thématiques*** *pertinentes en Suisse romande*   
 
 | archives ouvertes | domaine | nb docs/titres |
 | :-- | :-- | --: |

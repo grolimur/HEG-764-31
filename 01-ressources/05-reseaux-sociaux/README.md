@@ -1,6 +1,6 @@
 # RÉSEAUX SOCIAUX SCIENTIFIQUES
 
-Voici les deux principaux **réseaux sociaux** scientifiques, auxquels s'ajoute Twitter:
+*Voici les deux principaux* ***réseaux sociaux*** *scientifiques, auxquels s'ajoute Twitter.*
 
 | réseaux sociaux scientifiques |
 | :-- |

@@ -1,6 +1,6 @@
 # ARCHIVES INSTITUTIONNELLES
 
-*Voici quelques **archives institutionnelles** pertinentes en Suisse romande*   
+*Voici quelques* ***archives institutionnelles*** *pertinentes en Suisse romande*   
 
 | archives ouvertes | institution | nb docs/titres |
 | :-- | :-- | --: |

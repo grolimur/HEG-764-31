@@ -1,8 +1,6 @@
-# MOTEURS DE RECHERCHE ACADÉMIQUES
+## GOOGLE SCHOLAR
 
 *Google Scholar est le **moteur de recherche** académique le plus utilisé*   
-
-## GOOGLE SCHOLAR
 
 | Rubriques | Infos |
 | :-------- | :---- |

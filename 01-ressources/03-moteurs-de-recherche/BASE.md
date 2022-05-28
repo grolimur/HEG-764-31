@@ -1,7 +1,3 @@
-# MOTEURS DE RECHERCHE ACADÉMIQUES
-
-*Voici un **moteur de recherche** académique indexant les archives ouvertes (institutionnelle et thématique)*   
-
 ## Bielefeld Academic Search Engine (BASE)
 
 | Rubriques | Infos |
